@@ -2,6 +2,6 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-21T00:00:00Z",
-  "last_run_note": "Simulation initialized with $5,000.00 cash. No trades yet."
+  "last_run_at": "2026-07-21T23:07:37Z",
+  "last_run_note": "3 trades executed: bought NVDA, GLD, SHY for initial diversified allocation ($2,750 deployed, $2,250 cash retained)."
 }

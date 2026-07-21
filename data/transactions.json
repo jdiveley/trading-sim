@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T23:07:37Z",
+    "action": "BUY",
+    "ticker": "NVDA",
+    "qty": 4.8242,
+    "price": 207.29,
+    "amount": 1000.01,
+    "cash_after": 3999.99,
+    "rationale": "Nvidia resumed China H20 chip sales as Washington issued new export licenses, Goldman Sachs called the stock 'compelling' at 21.7x after NVDA denied Kyber NVL144 delay reports; stock has lagged AI-chip peers (SOX ETF +59% YTD vs NVDA flat) despite these positive catalysts, offering a reasonable entry."
+  },
+  {
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T23:07:37Z",
+    "action": "BUY",
+    "ticker": "GLD",
+    "qty": 2.668,
+    "price": 374.81,
+    "amount": 999.99,
+    "cash_after": 3000.00,
+    "rationale": "Gold at $4,082.73/oz (+1.86% today) with JPMorgan and Bank of America projecting $5,000/oz by Q4 2026 on Fed easing bias, central-bank buying, and cooling June CPI (3.5% YoY, down from 4.2%); establishes initial commodities exposure per policy diversification guidance."
+  },
+  {
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T23:07:37Z",
+    "action": "BUY",
+    "ticker": "SHY",
+    "qty": 9.1586,
+    "price": 81.89,
+    "amount": 750.00,
+    "cash_after": 2250.00,
+    "rationale": "Fed-funds futures now price roughly 53-80% odds of a rate hike (not cut) before year-end 2026 amid sticky inflation and rising Treasury yields (10yr at 4.594%); choosing short-duration SHY over long-duration TLT/BND to gain bond-ETF diversification while minimizing duration risk in a rising-rate environment."
+  }
+]

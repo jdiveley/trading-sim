@@ -1,5 +1,9 @@
 {
-  "cash": 5000.00,
-  "as_of": "2026-07-21T00:00:00Z",
-  "holdings": []
+  "cash": 2250.00,
+  "as_of": "2026-07-21T23:07:37Z",
+  "holdings": [
+    { "ticker": "NVDA", "qty": 4.8242, "avg_cost": 207.29 },
+    { "ticker": "GLD", "qty": 2.668, "avg_cost": 374.81 },
+    { "ticker": "SHY", "qty": 9.1586, "avg_cost": 81.89 }
+  ]
 }

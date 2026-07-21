@@ -276,11 +276,32 @@
 
 <script>
 // ---- DATA: replaced wholesale by the daily routine from data/*.json. Rendering code below is stable. ----
-const STATUS = {"state":"RUNNING","reason":null,"ended_at":null,"last_run_at":"2026-07-21T00:00:00Z","last_run_note":"Simulation initialized with $5,000.00 cash. No trades yet."};
-const LEDGER = {"cash":5000.00,"as_of":"2026-07-21T00:00:00Z","holdings":[]};
-const TRANSACTIONS = [];
-const HISTORY = [{"date":"2026-07-21","cash":5000.00,"holdings_value":0.00,"total_equity":5000.00}];
-const RESEARCH_LOG = [{"date":"2026-07-21","market_summary":"Simulation initialized. No trades placed yet; starting cash is $5,000.00.","notes":[]}];
+const STATUS = {"state":"RUNNING","reason":null,"ended_at":null,"last_run_at":"2026-07-21T23:07:37Z","last_run_note":"3 trades executed: bought NVDA, GLD, SHY for initial diversified allocation ($2,750 deployed, $2,250 cash retained)."};
+const LEDGER = {"cash":2250.00,"as_of":"2026-07-21T23:07:37Z","holdings":[
+  {"ticker":"NVDA","qty":4.8242,"avg_cost":207.29,"current_price":207.29,"cost_basis":1000.01},
+  {"ticker":"GLD","qty":2.668,"avg_cost":374.81,"current_price":374.81,"cost_basis":999.99},
+  {"ticker":"SHY","qty":9.1586,"avg_cost":81.89,"current_price":81.89,"cost_basis":750.00}
+]};
+const TRANSACTIONS = [
+  {"date":"2026-07-21","timestamp":"2026-07-21T23:07:37Z","action":"BUY","ticker":"NVDA","qty":4.8242,"price":207.29,"amount":1000.01,"cash_after":3999.99,"rationale":"Nvidia resumed China H20 chip sales as Washington issued new export licenses, Goldman Sachs called the stock 'compelling' at 21.7x after NVDA denied Kyber NVL144 delay reports; stock has lagged AI-chip peers (SOX ETF +59% YTD vs NVDA flat) despite these positive catalysts, offering a reasonable entry."},
+  {"date":"2026-07-21","timestamp":"2026-07-21T23:07:37Z","action":"BUY","ticker":"GLD","qty":2.668,"price":374.81,"amount":999.99,"cash_after":3000.00,"rationale":"Gold at $4,082.73/oz (+1.86% today) with JPMorgan and Bank of America projecting $5,000/oz by Q4 2026 on Fed easing bias, central-bank buying, and cooling June CPI (3.5% YoY, down from 4.2%); establishes initial commodities exposure per policy diversification guidance."},
+  {"date":"2026-07-21","timestamp":"2026-07-21T23:07:37Z","action":"BUY","ticker":"SHY","qty":9.1586,"price":81.89,"amount":750.00,"cash_after":2250.00,"rationale":"Fed-funds futures now price roughly 53-80% odds of a rate hike (not cut) before year-end 2026 amid sticky inflation and rising Treasury yields (10yr at 4.594%); choosing short-duration SHY over long-duration TLT/BND to gain bond-ETF diversification while minimizing duration risk in a rising-rate environment."}
+];
+const HISTORY = [
+  {"date":"2026-07-21","cash":5000.00,"holdings_value":0.00,"total_equity":5000.00},
+  {"date":"2026-07-21","cash":2250.00,"holdings_value":2750.00,"total_equity":5000.00}
+];
+const RESEARCH_LOG = [
+  {"date":"2026-07-21","market_summary":"Simulation initialized. No trades placed yet; starting cash is $5,000.00.","notes":[]},
+  {"date":"2026-07-21","market_summary":"First trading cycle. Nasdaq +1.29% / S&P +0.89% / Dow +0.74% on semiconductor strength (Micron +12%, Western Digital +10.7%), even as US-Iran military tensions escalated and oil/Treasury yields rose (10yr 4.594%, 2yr 4.211%, 30yr 5.115%). Fed rate-hike odds for year-end rose to 53-80% per various sources despite June CPI cooling to 3.5% YoY. Gold hit $4,082.73/oz (+1.86%) and silver $59.16 (+4.15%), both benefiting from cooling inflation and Fed-easing-bias narratives despite the hike-odds crosscurrent; gold-silver ratio broke below 70 signaling a rotation into silver.","notes":[
+    "AAPL: record high $327, up 20% YTD, P/E ~39.67x — rich valuation, earnings July 30. Passed on new entry; limited margin of safety at these levels.",
+    "MSFT: down ~20% YTD to $401 despite beating fiscal Q2 estimates (+17% YoY revenue) and $2.5B Frontier AI unit investment; analyst 1yr target $561 (+40%). Watching for entry closer to July 29 earnings rather than buying into event risk today.",
+    "NVDA: China H20 chip sales resumed via new export licenses; Goldman Sachs called NVDA 'compelling' at 21.7x after the company denied Kyber NVL144 delay reports (stock +1% on the denial). NVDA has lagged AI-chip peers (SOX +59% YTD vs NVDA flat) despite these catalysts. BOUGHT.",
+    "GOOGL: mixed — strong Q1 revenue (+21.8% YoY, cloud +63%) and a pending $80B equity raise incl. $10B Berkshire Hathaway investment, offset by a $4.67B EU antitrust fine, Gemini 3.5 Pro delays, and new UK financial-sector regulatory oversight of Google Cloud. Q2 earnings land July 22 (tomorrow) — passed on entry to avoid buying immediately ahead of an earnings event.",
+    "GLD: gold structural bull case intact — JPMorgan/BofA see $5,000/oz by Q4 2026 on Fed easing bias, central-bank and ETF demand, and cooling June CPI. BOUGHT for commodities diversification.",
+    "BND/TLT/SHY: bond-ETF outlook clouded by rising rate-hike odds (up to 80% per fed-funds futures) and sticky inflation; BND up only 0.43% YTD. Chose short-duration SHY over long-duration BND/TLT to gain policy-mandated bond exposure while limiting duration risk. BOUGHT SHY."
+  ]}
+];
 const STARTING_CASH = 5000.00;
 // -------------------------------------------------------------------------------------------------------
 
