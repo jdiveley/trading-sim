@@ -21,8 +21,8 @@ real capital.
   - `transactions.json` — append-only trade log with a rationale for every trade.
   - `history.json` — append-only daily net-asset-value snapshots (drives the equity chart).
   - `research_log.json` — append-only dated market notes and per-ticker research summaries.
-- **Automation**: a scheduled cloud agent (a Claude Code "routine") fires once per US trading
-  weekday, reads the files above, fetches live quotes
+- **Automation**: a scheduled cloud agent (a Claude Code "routine") fires three times daily
+  (9am / noon / 3pm CDT), reads the files above, fetches live quotes
   ([`scripts/get_quotes.sh`](./scripts/get_quotes.sh), backed by Yahoo Finance's public quote
   endpoint), does real research via web search, decides trades per the policy, updates the
   data files, regenerates the dashboard, and commits/pushes back to this repo.

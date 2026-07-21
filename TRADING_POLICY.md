@@ -30,10 +30,14 @@ justify real capital later — it is not investment advice.
 - Fractional shares are allowed (size positions in dollars, then convert to shares at the
   fetched price).
 - $0 commission per trade.
-- Fills happen at the latest available quote at the time of the daily cycle. This is an
-  end-of-day-cadence simulation — trades do not execute intraday in real time.
-- One trading cycle per US market weekday. If quotes cannot be fetched (holiday, endpoint
-  down, no network), the cycle is a no-op: log the reason, change nothing else.
+- Fills happen at the latest available quote at the time of each cycle.
+- Three trading cycles per day: 9:00am, 12:00pm, and 3:00pm CDT (14:00, 17:00, 20:00 UTC),
+  every day. On weekends and holidays quotes generally aren't available, so those cycles are
+  expected to no-op. If quotes cannot be fetched (market closed, endpoint down, no network),
+  the cycle is a no-op: log the reason, change nothing else.
+- Running three times a day does not mean trading three times a day — most cycles should
+  still be HOLD. Re-researching and re-trading a position within the same day needs a genuine
+  new catalyst (fresh news, a materially moved price), not just "it's the next check-in."
 
 ## Risk / position-sizing guidelines
 
