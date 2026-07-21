@@ -3,5 +3,6 @@
   "reason": null,
   "ended_at": null,
   "last_run_at": "2026-07-21T23:07:37Z",
-  "last_run_note": "3 trades executed: bought NVDA, GLD, SHY for initial diversified allocation ($2,750 deployed, $2,250 cash retained)."
+  "last_run_note": "3 trades executed: bought NVDA, GLD, SHY for initial diversified allocation ($2,750 deployed, $2,250 cash retained).",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-21T23:24:00Z" }
 }

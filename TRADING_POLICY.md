@@ -80,3 +80,13 @@ vs the $5,000 start, cash balance, a holdings table (ticker, qty, avg cost, curr
 market value, unrealized P/L%), an equity-over-time chart (from `data/history.json`), a
 transaction history table (from `data/transactions.json`), a research/decision log (from
 `data/research_log.json`), and a clear RUNNING/ENDED status banner (from `data/status.json`).
+
+Publishing has failed silently before (the Artifact tool reported success but the live page
+kept serving stale data). Every publish must be followed by a verification step: WebFetch the
+live artifact URL and confirm the `last_run_at`/`cash` values embedded in it match what was
+just written; if not, retry the publish once (WebFetch caches for ~15 minutes, so treat a
+mismatch as a signal, not certainty — one retry, then move on either way). Record the outcome
+in `data/status.json` under `dashboard_publish: {"status": "ok"|"failed", "checked_at":
+"<UTC ISO8601>"}` so a failure is visible in history and gets retried again next cycle
+regardless of whether anything else changed. A failed publish must never block committing and
+pushing the trade data — data durability always comes first.
