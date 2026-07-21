@@ -1,0 +1,7 @@
+{
+  "state": "RUNNING",
+  "reason": null,
+  "ended_at": null,
+  "last_run_at": "2026-07-21T00:00:00Z",
+  "last_run_note": "Simulation initialized with $5,000.00 cash. No trades yet."
+}

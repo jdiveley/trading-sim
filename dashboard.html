@@ -1,0 +1,457 @@
+<title>Paper Trading Simulator</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --series-equity:  #2a78d6;
+    --series-equity-wash: rgba(42, 120, 214, 0.10);
+    --good:           #0ca30c;
+    --critical:       #d03b3b;
+    --good-bg:        rgba(12, 163, 12, 0.08);
+    --critical-bg:    rgba(208, 59, 59, 0.08);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --series-equity:  #3987e5;
+      --series-equity-wash: rgba(57, 135, 229, 0.14);
+      --good:           #0ca30c;
+      --critical:       #e66767;
+      --good-bg:        rgba(12, 163, 12, 0.12);
+      --critical-bg:    rgba(230, 103, 103, 0.12);
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface-1:      #1a1a19;
+    --page:            #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --gridline:       #2c2c2a;
+    --baseline:       #383835;
+    --border:         rgba(255,255,255,0.10);
+    --series-equity:  #3987e5;
+    --series-equity-wash: rgba(57, 135, 229, 0.14);
+    --good:           #0ca30c;
+    --critical:       #e66767;
+    --good-bg:        rgba(12, 163, 12, 0.12);
+    --critical-bg:    rgba(230, 103, 103, 0.12);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--text-primary);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 24px 20px 64px;
+  }
+  header.top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  h1 { font-size: 20px; font-weight: 600; margin: 0; }
+  .subtitle { color: var(--text-secondary); font-size: 13px; margin-top: 2px; }
+
+  .status-banner {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .status-banner.running { color: var(--good); background: var(--good-bg); }
+  .status-banner.ended { color: var(--critical); background: var(--critical-bg); }
+  .status-banner .dot { width: 8px; height: 8px; border-radius: 50%; background: currentColor; flex: none; }
+
+  .hero-row {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+  }
+  .card {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+  }
+  .hero-card { flex: 2 1 260px; }
+  .stat-card { flex: 1 1 160px; }
+  .card .label {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin-bottom: 6px;
+  }
+  .hero-value {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+  .stat-value {
+    font-size: 22px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+  .delta { font-size: 13px; margin-top: 6px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .delta.up { color: var(--good); }
+  .delta.down { color: var(--critical); }
+  .delta.flat { color: var(--text-muted); }
+
+  section { margin-bottom: 28px; }
+  h2 {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 0 0 10px;
+  }
+
+  .chart-card { padding: 18px 18px 8px; }
+  svg.chart { display: block; width: 100%; height: auto; overflow: visible; }
+  .chart-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 12px;
+    color: var(--text-primary);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+    transform: translate(-50%, -120%);
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.1s;
+    z-index: 10;
+  }
+  .chart-wrap { position: relative; }
+  .crosshair { stroke: var(--baseline); stroke-width: 1; opacity: 0; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  thead th {
+    text-align: left;
+    font-weight: 600;
+    color: var(--text-secondary);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--gridline);
+  }
+  tbody td {
+    padding: 9px 10px;
+    border-bottom: 1px solid var(--gridline);
+    font-variant-numeric: tabular-nums;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  td.num, th.num { text-align: right; }
+  td.action-buy { color: var(--good); font-weight: 600; }
+  td.action-sell { color: var(--critical); font-weight: 600; }
+  .empty-row td { color: var(--text-muted); font-style: italic; text-align: center; padding: 20px 10px; }
+
+  .log-entry { padding: 12px 0; border-bottom: 1px solid var(--gridline); }
+  .log-entry:last-child { border-bottom: none; }
+  .log-date { font-size: 12px; font-weight: 600; color: var(--text-secondary); margin-bottom: 4px; }
+  .log-summary { font-size: 13px; margin-bottom: 4px; }
+  .log-notes { margin: 4px 0 0; padding-left: 18px; font-size: 13px; color: var(--text-secondary); }
+  .log-notes li { margin-bottom: 2px; }
+
+  .table-card { overflow-x: auto; }
+  footer {
+    color: var(--text-muted);
+    font-size: 12px;
+    margin-top: 32px;
+    line-height: 1.5;
+  }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Paper Trading Simulator</h1>
+      <div class="subtitle">Autonomous research-driven paper trading &mdash; started with $5,000.00</div>
+    </div>
+    <div id="status-banner" class="status-banner"></div>
+  </header>
+
+  <div class="hero-row">
+    <div class="card hero-card">
+      <div class="label">Total equity</div>
+      <div id="hero-value" class="hero-value">&mdash;</div>
+      <div id="hero-delta" class="delta"></div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Cash</div>
+      <div id="stat-cash" class="stat-value">&mdash;</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Holdings value</div>
+      <div id="stat-holdings" class="stat-value">&mdash;</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Total trades</div>
+      <div id="stat-trades" class="stat-value">&mdash;</div>
+    </div>
+  </div>
+
+  <section>
+    <h2>Equity over time</h2>
+    <div class="card chart-card">
+      <div class="chart-wrap" id="chart-wrap"></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Holdings</h2>
+    <div class="card table-card">
+      <table id="holdings-table">
+        <thead>
+          <tr>
+            <th>Ticker</th><th class="num">Qty</th><th class="num">Avg cost</th>
+            <th class="num">Current price</th><th class="num">Market value</th><th class="num">Unrealized P/L</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Transaction history</h2>
+    <div class="card table-card">
+      <table id="tx-table">
+        <thead>
+          <tr>
+            <th>Date</th><th>Action</th><th>Ticker</th><th class="num">Qty</th>
+            <th class="num">Price</th><th class="num">Amount</th><th>Rationale</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Research &amp; decision log</h2>
+    <div class="card" id="research-log"></div>
+  </section>
+
+  <footer>
+    Educational paper-trading simulation using real (unofficial, best-effort) market data
+    and real news research. All trades are simulated &mdash; nothing here is investment advice.
+    See <code>TRADING_POLICY.md</code> in the repo for the full ruleset.
+  </footer>
+</div>
+
+<script>
+// ---- DATA: replaced wholesale by the daily routine from data/*.json. Rendering code below is stable. ----
+const STATUS = {"state":"RUNNING","reason":null,"ended_at":null,"last_run_at":"2026-07-21T00:00:00Z","last_run_note":"Simulation initialized with $5,000.00 cash. No trades yet."};
+const LEDGER = {"cash":5000.00,"as_of":"2026-07-21T00:00:00Z","holdings":[]};
+const TRANSACTIONS = [];
+const HISTORY = [{"date":"2026-07-21","cash":5000.00,"holdings_value":0.00,"total_equity":5000.00}];
+const RESEARCH_LOG = [{"date":"2026-07-21","market_summary":"Simulation initialized. No trades placed yet; starting cash is $5,000.00.","notes":[]}];
+const STARTING_CASH = 5000.00;
+// -------------------------------------------------------------------------------------------------------
+
+const fmtUSD = (n, opts = {}) => n.toLocaleString('en-US', { style: 'currency', currency: 'USD', ...opts });
+const fmtPct = (n) => (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
+
+function renderStatus() {
+  const el = document.getElementById('status-banner');
+  const ended = STATUS.state === 'ENDED';
+  el.className = 'status-banner ' + (ended ? 'ended' : 'running');
+  el.innerHTML = '<span class="dot"></span>' + (ended ? 'ENDED' : 'RUNNING') +
+    (ended && STATUS.reason ? ' &mdash; ' + STATUS.reason : '');
+}
+
+function renderHero() {
+  const latest = HISTORY[HISTORY.length - 1];
+  const equity = latest.total_equity;
+  const holdingsValue = latest.holdings_value;
+  document.getElementById('hero-value').textContent = fmtUSD(equity);
+  document.getElementById('stat-cash').textContent = fmtUSD(latest.cash);
+  document.getElementById('stat-holdings').textContent = fmtUSD(holdingsValue);
+  document.getElementById('stat-trades').textContent = TRANSACTIONS.length;
+
+  const deltaAbs = equity - STARTING_CASH;
+  const deltaPct = (deltaAbs / STARTING_CASH) * 100;
+  const deltaEl = document.getElementById('hero-delta');
+  const dir = deltaAbs > 0.005 ? 'up' : deltaAbs < -0.005 ? 'down' : 'flat';
+  deltaEl.className = 'delta ' + dir;
+  deltaEl.textContent = (deltaAbs >= 0 ? '+' : '') + fmtUSD(deltaAbs) + ' (' + fmtPct(deltaPct) + ') vs $5,000 start';
+}
+
+function renderChart() {
+  const wrap = document.getElementById('chart-wrap');
+  const w = 900, h = 220, padL = 56, padR = 12, padT = 12, padB = 28;
+  const plotW = w - padL - padR, plotH = h - padT - padB;
+
+  const values = HISTORY.map(d => d.total_equity);
+  let min = Math.min(...values, STARTING_CASH), max = Math.max(...values, STARTING_CASH);
+  if (min === max) { min -= 1; max += 1; }
+  const range = max - min;
+  min -= range * 0.08; max += range * 0.08;
+
+  const x = i => HISTORY.length > 1 ? padL + (i / (HISTORY.length - 1)) * plotW : padL + plotW / 2;
+  const y = v => padT + plotH - ((v - min) / (max - min)) * plotH;
+
+  const yTicks = 4;
+  let gridlines = '', yLabels = '';
+  for (let t = 0; t <= yTicks; t++) {
+    const v = min + (t / yTicks) * (max - min);
+    const yy = y(v);
+    gridlines += `<line x1="${padL}" y1="${yy}" x2="${w - padR}" y2="${yy}" stroke="var(--gridline)" stroke-width="1"/>`;
+    yLabels += `<text x="${padL - 8}" y="${yy + 4}" text-anchor="end" font-size="11" fill="var(--text-muted)">${fmtUSD(v, { maximumFractionDigits: 0 })}</text>`;
+  }
+
+  let dateLabels = '';
+  const labelEvery = Math.max(1, Math.ceil(HISTORY.length / 6));
+  HISTORY.forEach((d, i) => {
+    if (i % labelEvery === 0 || i === HISTORY.length - 1) {
+      dateLabels += `<text x="${x(i)}" y="${h - 6}" text-anchor="middle" font-size="11" fill="var(--text-muted)">${d.date.slice(5)}</text>`;
+    }
+  });
+
+  const linePoints = HISTORY.map((d, i) => `${x(i)},${y(d.total_equity)}`).join(' ');
+  const areaPoints = `${x(0)},${y(min)} ` + linePoints + ` ${x(HISTORY.length - 1)},${y(min)}`;
+
+  const startLineY = y(STARTING_CASH);
+  const last = HISTORY[HISTORY.length - 1];
+  const dotX = x(HISTORY.length - 1), dotY = y(last.total_equity);
+
+  const hitCircles = HISTORY.map((d, i) =>
+    `<circle class="hit" data-i="${i}" cx="${x(i)}" cy="${y(d.total_equity)}" r="10" fill="transparent"/>`
+  ).join('');
+
+  wrap.innerHTML = `
+    <svg class="chart" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+      ${gridlines}
+      <line x1="${padL}" y1="${startLineY}" x2="${w - padR}" y2="${startLineY}" stroke="var(--baseline)" stroke-width="1" stroke-dasharray="3,3"/>
+      <polygon points="${areaPoints}" fill="var(--series-equity-wash)"/>
+      <polyline points="${linePoints}" fill="none" stroke="var(--series-equity)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="${dotX}" cy="${dotY}" r="4" fill="var(--series-equity)" stroke="var(--surface-1)" stroke-width="2"/>
+      ${yLabels}
+      ${dateLabels}
+      <line class="crosshair" id="crosshair" x1="0" y1="${padT}" x2="0" y2="${padT + plotH}"/>
+      ${hitCircles}
+    </svg>
+    <div class="chart-tooltip" id="tooltip"></div>
+  `;
+
+  const svg = wrap.querySelector('svg');
+  const tooltip = wrap.querySelector('#tooltip');
+  const crosshair = wrap.querySelector('#crosshair');
+  svg.querySelectorAll('.hit').forEach(node => {
+    const i = +node.dataset.i;
+    const d = HISTORY[i];
+    node.addEventListener('mousemove', (e) => {
+      const rect = wrap.getBoundingClientRect();
+      const px = (x(i) / w) * rect.width;
+      const py = (y(d.total_equity) / h) * rect.height;
+      tooltip.style.left = px + 'px';
+      tooltip.style.top = py + 'px';
+      tooltip.style.opacity = '1';
+      tooltip.innerHTML = `<strong>${d.date}</strong><br>${fmtUSD(d.total_equity)}`;
+      crosshair.setAttribute('x1', x(i)); crosshair.setAttribute('x2', x(i));
+      crosshair.style.opacity = '1';
+    });
+    node.addEventListener('mouseleave', () => {
+      tooltip.style.opacity = '0';
+      crosshair.style.opacity = '0';
+    });
+  });
+}
+
+function renderHoldings() {
+  const tbody = document.querySelector('#holdings-table tbody');
+  if (LEDGER.holdings.length === 0) {
+    tbody.innerHTML = '<tr class="empty-row"><td colspan="6">No open positions yet.</td></tr>';
+    return;
+  }
+  tbody.innerHTML = LEDGER.holdings.map(h => {
+    const price = h.current_price ?? h.avg_cost;
+    const mktValue = h.qty * price;
+    const pl = mktValue - h.cost_basis;
+    const plPct = (pl / h.cost_basis) * 100;
+    const dir = pl > 0.005 ? 'up' : pl < -0.005 ? 'down' : 'flat';
+    return `<tr>
+      <td>${h.ticker}</td>
+      <td class="num">${h.qty.toLocaleString('en-US', { maximumFractionDigits: 4 })}</td>
+      <td class="num">${fmtUSD(h.avg_cost)}</td>
+      <td class="num">${fmtUSD(price)}</td>
+      <td class="num">${fmtUSD(mktValue)}</td>
+      <td class="num delta ${dir}">${fmtUSD(pl)} (${fmtPct(plPct)})</td>
+    </tr>`;
+  }).join('');
+}
+
+function renderTransactions() {
+  const tbody = document.querySelector('#tx-table tbody');
+  if (TRANSACTIONS.length === 0) {
+    tbody.innerHTML = '<tr class="empty-row"><td colspan="7">No trades yet.</td></tr>';
+    return;
+  }
+  tbody.innerHTML = [...TRANSACTIONS].reverse().map(t => `<tr>
+    <td>${t.date}</td>
+    <td class="action-${t.action.toLowerCase()}">${t.action}</td>
+    <td>${t.ticker}</td>
+    <td class="num">${t.qty.toLocaleString('en-US', { maximumFractionDigits: 4 })}</td>
+    <td class="num">${fmtUSD(t.price)}</td>
+    <td class="num">${fmtUSD(t.amount)}</td>
+    <td>${t.rationale}</td>
+  </tr>`).join('');
+}
+
+function renderResearchLog() {
+  const el = document.getElementById('research-log');
+  if (RESEARCH_LOG.length === 0) {
+    el.innerHTML = '<div class="log-entry"><span class="log-summary" style="color:var(--text-muted); font-style:italic;">No research logged yet.</span></div>';
+    return;
+  }
+  el.innerHTML = [...RESEARCH_LOG].reverse().map(r => `
+    <div class="log-entry">
+      <div class="log-date">${r.date}</div>
+      <div class="log-summary">${r.market_summary}</div>
+      ${r.notes && r.notes.length ? '<ul class="log-notes">' + r.notes.map(n => `<li>${n}</li>`).join('') + '</ul>' : ''}
+    </div>
+  `).join('');
+}
+
+renderStatus();
+renderHero();
+renderChart();
+renderHoldings();
+renderTransactions();
+renderResearchLog();
+</script>
