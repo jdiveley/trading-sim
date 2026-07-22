@@ -4,5 +4,12 @@
   "ended_at": null,
   "last_run_at": "2026-07-22T20:09:52Z",
   "last_run_note": "No trades; held NVDA/GLD/SHY — diversification already in place and no new catalyst since yesterday's buys (GOOGL earnings pending, oil spike too speculative).",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-22T21:05:00Z" }
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-22T21:05:00Z" },
+  "schedule_gaps": [
+    {
+      "date": "2026-07-22",
+      "missed_cycles": ["09:00 CDT (14:00 UTC)", "12:00 CDT (17:00 UTC)"],
+      "detail": "Only the 15:00 CDT (20:00 UTC) cycle ran today; confirmed by git history (single 2026-07-22 commit) and single-entry data/history.json and data/research_log.json for that date. The three-cycles-per-day cadence was only committed to TRADING_POLICY.md at 2026-07-21T23:19:02Z, after that day's 3pm slot had passed — likely explanation is the routine's actual cron trigger wasn't reconfigured to 3x/day until sometime on 2026-07-22, after the 9am and noon windows had already passed, but this is unconfirmed since the trigger config isn't inspectable from a coding session. Flagged for the operator to verify the routine's schedule directly."
+    }
+  ]
 }
