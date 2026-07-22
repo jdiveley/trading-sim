@@ -1,4 +1,20 @@
 [
-  { "date": "2026-07-21", "cash": 5000.00, "holdings_value": 0.00, "total_equity": 5000.00 },
-  { "date": "2026-07-21", "cash": 2250.00, "holdings_value": 2750.00, "total_equity": 5000.00 }
+  {
+    "date": "2026-07-21",
+    "cash": 5000.0,
+    "holdings_value": 0.0,
+    "total_equity": 5000.0
+  },
+  {
+    "date": "2026-07-21",
+    "cash": 2250.0,
+    "holdings_value": 2750.0,
+    "total_equity": 5000.0
+  },
+  {
+    "date": "2026-07-22",
+    "cash": 2250.0,
+    "holdings_value": 2783.75,
+    "total_equity": 5033.75
+  }
 ]
