@@ -28,5 +28,18 @@
       "USO/oil: WTI +4.2% on Iran war-talk breakdown, but reports of mediation efforts and a possible 10-day truce make this headline-driven spike prone to a sharp reversal on any de-escalation news \u2014 too speculative for a new position.",
       "No trades this cycle: existing 3-way diversification (NVDA equity / SHY bonds / GLD commodities) already satisfies policy guidance, and no position has a genuine new catalyst since yesterday's buys."
     ]
+  },
+  {
+    "date": "2026-07-23",
+    "market_summary": "US futures slipped as AI-spending jitters weighed on sentiment; GOOGL dropped almost 5% pre-market despite beating Q2 estimates on elevated capex guidance, while Intel earnings loomed later in the session. Treasury yields stayed elevated (10yr 4.66%, 2yr 4.334%, 30yr 5.177% — a 12th straight session above 5%) with Sept rate-hike odds near 61%. Gold pulled back to ~$4,053/oz (-1.5%), a pause after its recent three-day rally; Comex gold fell 1.35% to $4,096. NVDA continued to see bullish analyst commentary (BofA reiterated Buy, calling it a 'unique, durable growth franchise') alongside news of a Nebius stake and a new Vera CPU unveiling, though the stock itself was roughly flat/down slightly from yesterday's close.",
+    "notes": [
+      "NVDA (held, 4.8242 @ $207.29, now $208.975, +0.8%): thesis unchanged — BofA reiterated 'Buy' today calling it a durable AI franchise, but this is a continuation of the existing bull case, not a new catalyst, and the stock itself is little-changed. HELD, no add.",
+      "GLD (held, 2.668 @ $374.81, now $371.17, -1.0%): gold eased to ~$4,053/oz after its recent rally — described as a natural pause, not a reversal of the Fed-easing/central-bank-buying structural thesis. HELD, no add.",
+      "SHY (held, 9.1586 @ $81.89, now $81.765, ~flat): yields keep grinding higher (30yr now 5.177%, 12th consecutive session above 5%; Sept hike odds ~61%), reaffirming the short-duration-over-long-duration choice. HELD.",
+      "GOOGL: Q2 revenue beat ($119.8B vs $116.93B est, +24.2% YoY) and Cloud revenue +82% to $24.8B with cloud operating income nearly tripling YoY, but stock sank ~5% pre-market on capex-hike concerns ($44.9B in-quarter capex). With earnings event-risk now resolved and the selloff driven by capex optics rather than weak fundamentals, initiated a position at $319.33. BOUGHT.",
+      "MSFT: still ~17% off highs, cheapest forward multiple since 2023 (21-22x), $625B contracted backlog; earnings not until July 29 — no new information today to justify moving off the sidelines.",
+      "AAPL: at $320.33, no material news today; passing, same rich-valuation concern as before.",
+      "Dashboard publish FAILED this cycle: the Artifact tool call to republish dashboard.html was rejected in this automated run. Trade data is unaffected — ledger/transactions/history/research log were all updated and committed normally; dashboard_publish.status set to \"failed\" in status.json so the next cycle retries the publish."
+    ]
   }
 ]

@@ -31,5 +31,16 @@
     "amount": 750.00,
     "cash_after": 2250.00,
     "rationale": "Fed-funds futures now price roughly 53-80% odds of a rate hike (not cut) before year-end 2026 amid sticky inflation and rising Treasury yields (10yr at 4.594%); choosing short-duration SHY over long-duration TLT/BND to gain bond-ETF diversification while minimizing duration risk in a rising-rate environment."
+  },
+  {
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T14:13:35Z",
+    "action": "BUY",
+    "ticker": "GOOGL",
+    "qty": 2.5052,
+    "price": 319.33,
+    "amount": 799.99,
+    "cash_after": 1450.01,
+    "rationale": "Alphabet's Q2 2026 results (reported after close 7/22) beat estimates — revenue +24.2% YoY to $119.8B vs $116.93B expected, Google Cloud revenue +82% to $24.8B with cloud operating income up from $2.8B to $8.8B — yet GOOGL sank almost 5% pre-market on capex-hike concerns (capex ~$44.9B in the quarter, guidance raised further). The event-risk that kept us on the sidelines the past two cycles has now resolved with a strong print, and the post-earnings selloff on capex jitters (not on fundamentals) offers a research-backed entry into a name whose core business (Search +17%, Cloud +82%) is accelerating."
   }
 ]
