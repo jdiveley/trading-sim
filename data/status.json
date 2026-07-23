@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-23T20:50:29Z",
-  "last_run_note": "No trades; held all positions. 4th check-in today, ~41 min after last cycle; market closed, quotes unchanged, no fresh catalyst.",
-  "dashboard_publish": { "status": "failed", "checked_at": "2026-07-23T20:50:29Z" },
+  "last_run_at": "2026-07-23T21:08:06Z",
+  "last_run_note": "No trades; held all positions. 5th check-in today, ~18 min after last cycle; market closed, quotes unchanged, no fresh catalyst.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-23T21:08:06Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
