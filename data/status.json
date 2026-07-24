@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-24T17:08:59Z",
-  "last_run_note": "No trades; held all positions. Second check-in of the day; market extended its rebound (oil retreating further) but no fresh ticker-specific catalyst.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-24T17:08:59Z" },
+  "last_run_at": "2026-07-24T20:10:40Z",
+  "last_run_note": "No trades; held all positions. Third and final check-in of the day, at the close; oil/yield unwind continued but no fresh ticker-specific catalyst since the prior cycle.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-24T20:10:40Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
