@@ -139,5 +139,19 @@
       "Decision: HOLD across the board. Third cycle today, right at the close; no genuine new, dated, ticker-specific catalyst emerged for any held or watchlist name since the 17:08 UTC cycle -- just continued unwind of Thursday's oil/yield spike into the weekend. Portfolio remains diversified across all three asset classes (equities: NVDA/GOOGL, bonds: SHY, commodities: GLD) per policy. No trade executed.",
       "total_equity = $4,990.77 (cash $1,450.01 + holdings $3,540.76), well above the $25.00 floor. No end condition."
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "market_summary": "Saturday, first check-in of the weekend; US markets are closed so all live quotes returned are frozen at Friday 2026-07-24 close (NVDA $206.84, GLD $371.90, SHY $81.85, GOOGL $319.74). The dominant ongoing story remains the US-Iran conflict: the early-July ceasefire collapsed and the US ran roughly 13 consecutive nights of strikes, though CENTCOM reportedly did not announce new strikes on Friday 7/24 -- a possible pause, though neither side has signaled a return to diplomacy and casualties/tanker damage continue to accumulate. Oil is near $89/bbl (~10% up on the week) on the conflict, gold has drifted down toward ~$4,030/oz as rate-hike odds firm, and the 10yr Treasury yield sits around 4.69-4.71%. Equities are on pace for a second straight weekly loss (tech-led) with Wednesday's Fed decision as the next real catalyst. All of this is Thursday/Friday-known information already reflected in Friday's close; no incremental Saturday-dated headline was found for any held or watchlist ticker.",
+    "notes": [
+      "NVDA (held, 4.8242 @ $207.29, now $206.84, -0.2%): no new catalyst; standing BofA buy reiteration and Jensen Huang China-AI comments are pre-existing. Next real catalyst is Aug 26 earnings. HELD.",
+      "GOOGL (held, 2.5052 @ $319.33, now $319.74, +0.13%): no new catalyst; post-earnings capex/FCF concerns and Waymo-Uber split talk are already known and already priced in from earlier this week. HELD.",
+      "GLD (held, 2.668 @ $374.81, now $371.90, -0.78%): no new catalyst; continued drift as oil-driven Fed-hike bets pressure gold, same Thursday/Friday dynamic. HELD.",
+      "SHY (held, 9.1586 @ $81.89, now $81.85, ~flat): no news found at all; flat, stable short-duration position unaffected. HELD.",
+      "TLT, SLV, USO (watchlist, not held): checked for weekend catalysts -- none found. TLT's bearish technical trend, SLV's Iran/Fed/yield drivers, and USO's OPEC-squeeze/Iran-supply-risk story are all continuations of already-known themes, not new dated events. Passing on all three.",
+      "One item flagged for Monday: CENTCOM skipping Friday's strikes could matter if it signals genuine de-escalation (or if fighting resumes over the weekend), but as of this check-in it is ambiguous and not actionable -- worth re-checking at Monday's open.",
+      "Decision: HOLD across the board. Weekend cycle with frozen Friday-close prices and no genuine new, dated, ticker-specific catalyst for any held or watchlist name. Portfolio remains diversified across all three asset classes (equities: NVDA/GOOGL, bonds: SHY, commodities: GLD) per policy. No trade executed.",
+      "total_equity = $4,990.72 (cash $1,450.01 + holdings $3,540.71), well above the $25.00 floor. No end condition."
+    ]
   }
 ]
