@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-25T14:08:51Z",
-  "last_run_note": "No trades; held all positions. Weekend check-in with frozen Friday-close prices; no new ticker-specific catalyst (Iran conflict/oil/Fed themes are continuations already priced in).",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-25T14:20:00Z" },
+  "last_run_at": "2026-07-25T17:09:23Z",
+  "last_run_note": "No trades; held all positions. Second weekend check-in, quotes unchanged from 3 hours ago (frozen Friday close); no new ticker-specific catalyst.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-25T17:10:35Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
