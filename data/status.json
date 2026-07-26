@@ -2,8 +2,8 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-26T14:11:14Z",
-  "last_run_note": "No trades; held all positions. Sunday check-in, quotes still frozen at Friday close; no new ticker-specific catalyst.",
+  "last_run_at": "2026-07-26T17:08:37Z",
+  "last_run_note": "No trades; held all positions. Sunday 17:08 UTC check-in, quotes still frozen at Friday close; no new ticker-specific catalyst, FOMC decision not until Jul 28-29.",
   "dashboard_publish": { "status": "ok", "checked_at": "2026-07-25T20:13:00Z" },
   "schedule_gaps": [
     {
