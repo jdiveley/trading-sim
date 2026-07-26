@@ -2,8 +2,8 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-25T20:08:55Z",
-  "last_run_note": "No trades; held all positions. Third and final weekend check-in, quotes unchanged from earlier today (frozen Friday close); no new ticker-specific catalyst.",
+  "last_run_at": "2026-07-26T14:11:14Z",
+  "last_run_note": "No trades; held all positions. Sunday check-in, quotes still frozen at Friday close; no new ticker-specific catalyst.",
   "dashboard_publish": { "status": "ok", "checked_at": "2026-07-25T20:13:00Z" },
   "schedule_gaps": [
     {
