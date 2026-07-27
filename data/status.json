@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-26T20:07:58Z",
-  "last_run_note": "No trades; held all positions. Sunday 20:07 UTC check-in (3rd cycle today), quotes still frozen at Friday close; a seemingly-new GOOGL article turned out to be a rehash of the known capex story, FOMC decision not until Jul 28-29.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-26T20:07:58Z" },
+  "last_run_at": "2026-07-27T14:19:11Z",
+  "last_run_note": "No trades; held all positions. Monday first-of-day cycle: Iran ceasefire drove a broad risk-on rally (oil -15%, gold +1.1%, yields eased to 4.64%), but the move is already reflected in our diversified book with no clear new mispricing; FOMC decision Wed Jul 29 argues against adding bond duration now.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-27T14:19:11Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
