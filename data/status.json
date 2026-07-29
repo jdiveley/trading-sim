@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-29T14:14:35Z",
-  "last_run_note": "No trades; held all positions. First cycle of FOMC decision day (statement 18:00 UTC); fresh Iran missile attack on US forces sent oil +6.5% overnight but no held/watchlist ticker cleared the bar for a decision-grade catalyst, staying put into today's binary events (FOMC, MSFT/META earnings after close).",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-29T14:20:00Z" },
+  "last_run_at": "2026-07-29T17:09:19Z",
+  "last_run_note": "No trades; held all positions. Second cycle of FOMC decision day (statement due ~18:00 UTC, under an hour out); all holdings roughly flat vs the 14:14 cycle with no fresh ticker-specific catalyst, staying put into the Fed decision and tonight's MSFT/META earnings.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-29T17:12:16Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
