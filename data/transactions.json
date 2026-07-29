@@ -42,5 +42,16 @@
     "amount": 799.99,
     "cash_after": 1450.01,
     "rationale": "Alphabet's Q2 2026 results (reported after close 7/22) beat estimates — revenue +24.2% YoY to $119.8B vs $116.93B expected, Google Cloud revenue +82% to $24.8B with cloud operating income up from $2.8B to $8.8B — yet GOOGL sank almost 5% pre-market on capex-hike concerns (capex ~$44.9B in the quarter, guidance raised further). The event-risk that kept us on the sidelines the past two cycles has now resolved with a strong print, and the post-earnings selloff on capex jitters (not on fundamentals) offers a research-backed entry into a name whose core business (Search +17%, Cloud +82%) is accelerating."
+  },
+  {
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T21:26:53Z",
+    "action": "BUY",
+    "ticker": "MSFT",
+    "qty": 1.5363,
+    "price": 390.54,
+    "amount": 600.0,
+    "cash_after": 850.01,
+    "rationale": "Microsoft's FY26 Q4 print (after today's close) beat decisively: revenue $90.0B (+18% YoY), GAAP net income $35.8B (+31%), and Azure grew 43% YoY (vs ~40% expected) to top $100B in annual revenue for the first time, directly answering the AI-capex-payoff doubt that hit the whole hyperscaler group after Alphabet's and now Meta's capex-driven selloffs; M365 Copilot also crossed 30M paid users. Stock jumped after hours on the print, but our fetched quote reflects the pre-reaction regular-session close, and the event-risk (avoiding pre-print positioning) that kept MSFT on the watchlist all week has now resolved with a clean beat-and-raise-quality result."
   }
 ]
