@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-30T14:15:31Z",
-  "last_run_note": "No trades; held all positions. MSFT's ~14.5% post-earnings pop is already priced in from yesterday's buy; NVDA's -5.7% is a sector-wide chip pullback with no company-specific catalyst; AAPL earnings tonight and USO's oil spike both failed the policy's event-risk/reversal-chasing tests.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-30T14:17:21Z" },
+  "last_run_at": "2026-07-30T17:10:20Z",
+  "last_run_note": "No trades; held all positions. MSFT's ~15% pop is the market catching up to yesterday's earnings beat (already priced in); NVDA's continued sector-wide chip pullback (-6.6%) has no company-specific catalyst; GOOGL rallied with the broader tech rebound; AAPL earnings after tonight's close remain event risk.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-30T17:12:14Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
