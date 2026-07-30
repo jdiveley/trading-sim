@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-30T17:10:20Z",
-  "last_run_note": "No trades; held all positions. MSFT's ~15% pop is the market catching up to yesterday's earnings beat (already priced in); NVDA's continued sector-wide chip pullback (-6.6%) has no company-specific catalyst; GOOGL rallied with the broader tech rebound; AAPL earnings after tonight's close remain event risk.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-30T17:12:14Z" },
+  "last_run_at": "2026-07-30T20:10:32Z",
+  "last_run_note": "No trades; held all positions. MSFT's continued surge is the same post-earnings story already priced in; NVDA/GOOGL moves are broad-market continuation with no fresh company-specific catalyst; AAPL and AMZN both report after tonight's close and remain pre-earnings event risk.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-30T20:13:03Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
