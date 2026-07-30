@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-29T21:26:53Z",
-  "last_run_note": "1 trade executed: initiated MSFT ($600, ~12% of equity) on a decisive post-earnings beat (Azure +43% YoY, net income +31%). FOMC held rates but was read as hawkish (9-3 vote); all other holdings held.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-29T21:29:00Z" },
+  "last_run_at": "2026-07-30T14:15:31Z",
+  "last_run_note": "No trades; held all positions. MSFT's ~14.5% post-earnings pop is already priced in from yesterday's buy; NVDA's -5.7% is a sector-wide chip pullback with no company-specific catalyst; AAPL earnings tonight and USO's oil spike both failed the policy's event-risk/reversal-chasing tests.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-30T14:17:21Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
