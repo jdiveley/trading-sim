@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-31T17:10:12Z",
-  "last_run_note": "No trades; held all positions. No genuine new catalysts since this morning's AMZN buy -- AAPL's guidance-miss decline (now ~-9%) is the same story already passed on, all held tickers show continuation moves.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-31T17:12:17Z" },
+  "last_run_at": "2026-07-31T20:10:27Z",
+  "last_run_note": "No trades; held all positions. Third/final scheduled cycle of the day -- AMZN/MSFT/GOOGL post-earnings momentum, AAPL's record-setting decline, and the post-FOMC 30yr yield spike to 5.26% (highest since 2007) are all continuations of already-known stories, no genuine new catalyst since the 17:10 UTC cycle.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-31T20:12:52Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
