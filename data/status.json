@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-31T14:15:08Z",
-  "last_run_note": "1 trade executed: initiated AMZN ($599.99, ~11.8% of equity) on a decisive Q2 beat-and-raise (AWS growth accelerated to 36.7% YoY, stock +10% on the day); AAPL passed over after weak guidance sent it down 6-8%. All other positions held.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-31T14:17:18Z" },
+  "last_run_at": "2026-07-31T17:10:12Z",
+  "last_run_note": "No trades; held all positions. No genuine new catalysts since this morning's AMZN buy -- AAPL's guidance-miss decline (now ~-9%) is the same story already passed on, all held tickers show continuation moves.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-31T17:12:17Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
