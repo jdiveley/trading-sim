@@ -1,11 +1,12 @@
 {
-  "cash": 850.01,
-  "as_of": "2026-07-29T21:26:53Z",
+  "cash": 250.02,
+  "as_of": "2026-07-31T14:15:08Z",
   "holdings": [
     { "ticker": "NVDA", "qty": 4.8242, "avg_cost": 207.29 },
     { "ticker": "GLD", "qty": 2.668, "avg_cost": 374.81 },
     { "ticker": "SHY", "qty": 9.1586, "avg_cost": 81.89 },
     { "ticker": "GOOGL", "qty": 2.5052, "avg_cost": 319.33 },
-    { "ticker": "MSFT", "qty": 1.5363, "avg_cost": 390.54 }
+    { "ticker": "MSFT", "qty": 1.5363, "avg_cost": 390.54 },
+    { "ticker": "AMZN", "qty": 2.2386, "avg_cost": 268.02 }
   ]
 }

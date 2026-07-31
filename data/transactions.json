@@ -18,7 +18,7 @@
     "qty": 2.668,
     "price": 374.81,
     "amount": 999.99,
-    "cash_after": 3000.00,
+    "cash_after": 3000.0,
     "rationale": "Gold at $4,082.73/oz (+1.86% today) with JPMorgan and Bank of America projecting $5,000/oz by Q4 2026 on Fed easing bias, central-bank buying, and cooling June CPI (3.5% YoY, down from 4.2%); establishes initial commodities exposure per policy diversification guidance."
   },
   {
@@ -28,8 +28,8 @@
     "ticker": "SHY",
     "qty": 9.1586,
     "price": 81.89,
-    "amount": 750.00,
-    "cash_after": 2250.00,
+    "amount": 750.0,
+    "cash_after": 2250.0,
     "rationale": "Fed-funds futures now price roughly 53-80% odds of a rate hike (not cut) before year-end 2026 amid sticky inflation and rising Treasury yields (10yr at 4.594%); choosing short-duration SHY over long-duration TLT/BND to gain bond-ETF diversification while minimizing duration risk in a rising-rate environment."
   },
   {
@@ -41,7 +41,7 @@
     "price": 319.33,
     "amount": 799.99,
     "cash_after": 1450.01,
-    "rationale": "Alphabet's Q2 2026 results (reported after close 7/22) beat estimates — revenue +24.2% YoY to $119.8B vs $116.93B expected, Google Cloud revenue +82% to $24.8B with cloud operating income up from $2.8B to $8.8B — yet GOOGL sank almost 5% pre-market on capex-hike concerns (capex ~$44.9B in the quarter, guidance raised further). The event-risk that kept us on the sidelines the past two cycles has now resolved with a strong print, and the post-earnings selloff on capex jitters (not on fundamentals) offers a research-backed entry into a name whose core business (Search +17%, Cloud +82%) is accelerating."
+    "rationale": "Alphabet's Q2 2026 results (reported after close 7/22) beat estimates \u2014 revenue +24.2% YoY to $119.8B vs $116.93B expected, Google Cloud revenue +82% to $24.8B with cloud operating income up from $2.8B to $8.8B \u2014 yet GOOGL sank almost 5% pre-market on capex-hike concerns (capex ~$44.9B in the quarter, guidance raised further). The event-risk that kept us on the sidelines the past two cycles has now resolved with a strong print, and the post-earnings selloff on capex jitters (not on fundamentals) offers a research-backed entry into a name whose core business (Search +17%, Cloud +82%) is accelerating."
   },
   {
     "date": "2026-07-29",
@@ -53,5 +53,16 @@
     "amount": 600.0,
     "cash_after": 850.01,
     "rationale": "Microsoft's FY26 Q4 print (after today's close) beat decisively: revenue $90.0B (+18% YoY), GAAP net income $35.8B (+31%), and Azure grew 43% YoY (vs ~40% expected) to top $100B in annual revenue for the first time, directly answering the AI-capex-payoff doubt that hit the whole hyperscaler group after Alphabet's and now Meta's capex-driven selloffs; M365 Copilot also crossed 30M paid users. Stock jumped after hours on the print, but our fetched quote reflects the pre-reaction regular-session close, and the event-risk (avoiding pre-print positioning) that kept MSFT on the watchlist all week has now resolved with a clean beat-and-raise-quality result."
+  },
+  {
+    "date": "2026-07-31",
+    "timestamp": "2026-07-31T14:15:08Z",
+    "action": "BUY",
+    "ticker": "AMZN",
+    "qty": 2.2386,
+    "price": 268.02,
+    "amount": 599.99,
+    "cash_after": 250.02,
+    "rationale": "Amazon's Q2 2026 print (after Thursday's close) smashed expectations: revenue $200.6B (+20% YoY, vs $196.5B est.), operating income $27.5B (+43% YoY), and AWS growth accelerated for a fifth straight quarter to 36.7% YoY (run-rate $169B, backlog $496B growing triple digits) with AWS operating margin up 650bp to 39% -- a durable, fundamentals-driven beat, not just the one-time $53.4B Anthropic mark-to-market gain also in the print. Stock jumped 10% today (Dow/S&P/Nasdaq gains led by the Amazon-driven tech rebound per today's market wrap), and the pre-earnings event-risk that kept AMZN off the books resolved with a clean beat-and-raise across every core metric, mirroring the same post-earnings-resolution logic already used for MSFT and GOOGL. Sized at $599.99 (~11.8% of total equity, well under the 30% cap), funded from cash; AAPL, which also reported last night, is being passed over as a contrast case -- it beat on revenue/EPS but gave weak forward guidance citing supply constraints and fell 6-8% after hours, the opposite signal."
   }
 ]

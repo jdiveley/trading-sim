@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-07-30T20:10:32Z",
-  "last_run_note": "No trades; held all positions. MSFT's continued surge is the same post-earnings story already priced in; NVDA/GOOGL moves are broad-market continuation with no fresh company-specific catalyst; AAPL and AMZN both report after tonight's close and remain pre-earnings event risk.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-30T20:13:03Z" },
+  "last_run_at": "2026-07-31T14:15:08Z",
+  "last_run_note": "1 trade executed: initiated AMZN ($599.99, ~11.8% of equity) on a decisive Q2 beat-and-raise (AWS growth accelerated to 36.7% YoY, stock +10% on the day); AAPL passed over after weak guidance sent it down 6-8%. All other positions held.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-07-31T14:17:18Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
