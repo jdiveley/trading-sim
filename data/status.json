@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-01T14:10:13Z",
-  "last_run_note": "No trades; held all positions. Weekend cycle (Saturday), markets closed -- all quotes identical to Friday's close, no genuine new catalyst.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-08-01T14:15:00Z" },
+  "last_run_at": "2026-08-01T17:08:05Z",
+  "last_run_note": "No trades; held all positions. Second weekend cycle (Saturday), markets closed -- all quotes identical to the 14:10 UTC cycle, no genuine new catalyst.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-08-01T17:10:00Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
