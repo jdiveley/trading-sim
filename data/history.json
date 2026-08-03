@@ -232,5 +232,11 @@
     "cash": 250.02,
     "holdings_value": 5029.95,
     "total_equity": 5279.97
+  },
+  {
+    "date": "2026-08-03",
+    "cash": 250.02,
+    "holdings_value": 5062.73,
+    "total_equity": 5312.75
   }
 ]
