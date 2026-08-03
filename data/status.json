@@ -2,9 +2,9 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-02T20:10:17Z",
-  "last_run_note": "No trades; held all positions. Third and final cycle of Sunday, markets still closed -- quotes identical to the 17:08 UTC cycle, no genuine new catalyst.",
-  "dashboard_publish": { "status": "ok", "checked_at": "2026-08-02T20:10:17Z" },
+  "last_run_at": "2026-08-03T14:19:43Z",
+  "last_run_note": "No trades; held all positions. Iran de-escalation moved oil/gold/yields/equities today, but all moves were already priced into fetched quotes by cycle time -- no clean unpriced entry on any candidate.",
+  "dashboard_publish": { "status": "ok", "checked_at": "2026-08-03T14:21:46Z" },
   "schedule_gaps": [
     {
       "date": "2026-07-22",
