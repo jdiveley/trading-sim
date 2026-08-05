@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-05T17:12:08Z",
-  "last_run_note": "No trades; held all positions. Second cycle of the day -- GOOGL dropped ~4.2% intraday (confirmed via repeat quote fetch); investigated but only found a thin UK antitrust-tribunal headline, not a clean fundamentals catalyst, so held per standing litigation-news practice. NVDA's fresh SpaceX/Nvidia-exclusivity catalyst was already priced in before this check-in. No watchlist candidate screened positive.",
+  "last_run_at": "2026-08-05T20:12:39Z",
+  "last_run_note": "No trades; held all positions. Third cycle of the day -- identified the real catalyst behind GOOGL's ongoing weakness (now -4.6% intraday from this morning): Chief Scientist Jeff Dean + 3 other top AI researchers departing to launch a competing AI-research startup, plus DeepMind CEO Hassabis stepping back. Genuine key-person risk, but fundamentals unchanged and move already priced in, so held rather than reacting. No watchlist candidate screened positive (PLTR already popped 30% post-earnings, AAPL still weak on guidance).",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-05T17:14:41Z"
+    "checked_at": "2026-08-05T20:15:51Z"
   },
   "schedule_gaps": [
     {
