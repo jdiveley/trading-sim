@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-06T20:15:41Z",
-  "last_run_note": "No trades; held all positions. Third cycle of 8/6 -- gold broke above $4,300/oz (fresh, dated) but that extends an already-sized GLD position with cash already thin, so no add; nothing else had a genuine new catalyst. Total equity $5,368.88, up slightly from $5,364.30 prior check.",
+  "last_run_at": "2026-08-07T14:28:57Z",
+  "last_run_note": "No trades; held all positions. First cycle of 8/7 -- weak July NFP (-23K vs +80K expected) pulled yields down and extended gold's rally to $4,347/oz, but that extends an already well-sized GLD position with cash still thin, so no add; nothing else had a genuine new catalyst. Total equity $5,419.02, up from $5,368.88 prior check.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-06T20:20:00Z"
+    "checked_at": "2026-08-07T14:35:00Z"
   },
   "schedule_gaps": [
     {
