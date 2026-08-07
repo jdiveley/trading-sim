@@ -64,5 +64,16 @@
     "amount": 599.99,
     "cash_after": 250.02,
     "rationale": "Amazon's Q2 2026 print (after Thursday's close) smashed expectations: revenue $200.6B (+20% YoY, vs $196.5B est.), operating income $27.5B (+43% YoY), and AWS growth accelerated for a fifth straight quarter to 36.7% YoY (run-rate $169B, backlog $496B growing triple digits) with AWS operating margin up 650bp to 39% -- a durable, fundamentals-driven beat, not just the one-time $53.4B Anthropic mark-to-market gain also in the print. Stock jumped 10% today (Dow/S&P/Nasdaq gains led by the Amazon-driven tech rebound per today's market wrap), and the pre-earnings event-risk that kept AMZN off the books resolved with a clean beat-and-raise across every core metric, mirroring the same post-earnings-resolution logic already used for MSFT and GOOGL. Sized at $599.99 (~11.8% of total equity, well under the 30% cap), funded from cash; AAPL, which also reported last night, is being passed over as a contrast case -- it beat on revenue/EPS but gave weak forward guidance citing supply constraints and fell 6-8% after hours, the opposite signal."
+  },
+  {
+    "date": "2026-08-07",
+    "timestamp": "2026-08-07T20:14:48Z",
+    "action": "BUY",
+    "ticker": "USO",
+    "qty": 1.6943,
+    "price": 118.04,
+    "amount": 200.0,
+    "cash_after": 50.02,
+    "rationale": "Iran published a restrictive draft plan for Strait of Hormuz transit on 8/6 (CNBC) banning US- and Israeli-linked vessels and imposing penalties equal to 20% of cargo value on violators -- a concrete escalation beyond the 'considering' stage flagged and passed on at the prior cycle, which explicitly said to revisit once the restriction became confirmed rather than speculative. Oil has moved higher in response (WTI $78.31, Brent $83.49, both up on the day). Sized small ($200, ~3.7% of total equity) using available cash, leaving a $50.02 buffer, since the position is a fresh geopolitical-risk trade rather than a core holding."
   }
 ]
