@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-07T20:14:48Z",
-  "last_run_note": "1 trade executed: BUY USO $200.00 (1.6943 sh @ $118.04) -- Iran published a restrictive draft plan for Strait of Hormuz transit on 8/6, banning US/Israeli-linked vessels, a confirmed escalation beyond the 'considering' stage flagged last cycle. All other positions held (no distinct new catalysts). Total equity $5,414.05, cash $50.02.",
+  "last_run_at": "2026-08-08T14:14:54Z",
+  "last_run_note": "No trades; markets closed for the weekend (Saturday), all quotes unchanged from Friday 8/7's close, no fresh dated catalyst found for any held or watchlist ticker. Held all positions. Total equity $5,413.91, cash $50.02.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-07T20:16:51Z"
+    "checked_at": "2026-08-08T14:16:17Z"
   },
   "schedule_gaps": [
     {
