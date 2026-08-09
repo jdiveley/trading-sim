@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-09T14:14:15Z",
-  "last_run_note": "No trades; markets closed for the weekend (Sunday), all quotes unchanged from Saturday's frozen prints and Friday 8/7's close, no fresh dated catalyst found for any held or watchlist ticker. Held all positions. Total equity $5,413.91, cash $50.02.",
+  "last_run_at": "2026-08-09T17:10:03Z",
+  "last_run_note": "No trades; markets closed for the weekend (Sunday), all quotes unchanged from the 14:14 UTC check and Friday 8/7's close, no fresh dated catalyst found for any held or watchlist ticker. Held all positions. Total equity $5,413.90, cash $50.02.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-09T14:14:15Z"
+    "checked_at": "2026-08-09T17:10:03Z"
   },
   "schedule_gaps": [
     {
