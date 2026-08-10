@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-09T20:11:21Z",
-  "last_run_note": "No trades; markets closed for the weekend (Sunday), all quotes unchanged from the 17:10 UTC check and Friday 8/7's close. Hormuz situation has genuinely escalated (UAE vessel targeted 8/8) but no live USO price to trade against and cash is down to $50.02. Held all positions. Total equity $5,413.91, cash $50.02.",
+  "last_run_at": "2026-08-10T14:29:08Z",
+  "last_run_note": "No trades; first live-market cycle since Friday's close, quotes moved (USO +4.3%, MSFT +2.4%, AMZN +1.0%) confirming the weekend's Hormuz/rate-cut thesis but no fresh ticker-specific catalyst and cash too low ($50.02) to add. Held all positions. Total equity $5,435.57, cash $50.02.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-09T20:11:21Z"
+    "checked_at": "2026-08-10T14:31:12Z"
   },
   "schedule_gaps": [
     {
