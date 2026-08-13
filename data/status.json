@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-13T14:44:05Z",
-  "last_run_note": "1 trade executed: SOLD full USO position (1.6943 sh @ $124.365, +5.4%) as oil fell 1.8% on a 9.1M-barrel inventory build and reports the US and Iran are close to a Hormuz arrangement -- the first real reversal of the position's entry catalyst. All other positions held; no fresh ticker-specific catalyst for NVDA/GOOGL/MSFT/AMZN/GLD/SHY. Cash rose from $50.02 to $260.73. Total equity $5,407.56.",
+  "last_run_at": "2026-08-13T17:29:03Z",
+  "last_run_note": "No trades; held all six positions -- no fresh ticker-specific catalyst cleared the bar despite a broad risk-on move (S&P 500 record high, soft PPI pulling yields down). Total equity $5,388.64.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-13T14:47:00Z"
+    "checked_at": "2026-08-13T17:30:38Z"
   },
   "schedule_gaps": [
     {
