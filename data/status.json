@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-14T17:14:54Z",
-  "last_run_note": "No trades; held all six positions -- retail sales miss and consumer-sentiment plunge pulled the broad market off record highs and yields rose for the first time in days, but no held ticker had a fresh, ticker-specific catalyst, and the naval-blockade-driven oil rhetoric wasn't confirmed by an actual price move so USO re-entry was passed on. Total equity $5,387.03.",
+  "last_run_at": "2026-08-15T14:15:55Z",
+  "last_run_note": "1 trade executed: re-entered USO ($200, ~3.7% of equity) after Friday's naval-blockade escalation was confirmed by an actual price move (WTI +1.4% to $82.40), the condition the prior cycle said to wait for. All six other positions held -- no fresh ticker-specific catalyst. Total equity $5,384.71.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-14T17:16:36Z"
+    "checked_at": "2026-08-15T14:17:35Z"
   },
   "schedule_gaps": [
     {

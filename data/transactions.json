@@ -86,5 +86,16 @@
     "amount": 210.71,
     "cash_after": 260.73,
     "rationale": "Exiting the small Hormuz-risk USO trade as its catalyst reverses for the first time since entry: WTI fell 1.84% to $81.74 and Brent fell 1.80% to $87.38 today (vs prior cycles where oil kept firming despite bearish data), driven by a fresh 9.1M-barrel weekly crude inventory build (biggest since February) plus Pakistan's defense minister saying the US and Iran are 'close to some sort of arrangement' on the Strait of Hormuz and reports that Iran-Oman talks have reached an advanced stage. The position was explicitly sized and labeled a tactical geopolitical-risk trade (not a core holding) on 8/7's Hormuz-restriction escalation; today's data is the first sign the risk premium that justified it is deflating, so locking in the ~5% gain and returning the cash to the buffer."
+  },
+  {
+    "date": "2026-08-15",
+    "timestamp": "2026-08-15T14:15:55Z",
+    "action": "BUY",
+    "ticker": "USO",
+    "qty": 1.5798,
+    "price": 126.6,
+    "amount": 200.0,
+    "cash_after": 60.73,
+    "rationale": "Re-entering the Hormuz-risk oil trade exited on 8/13: WTI settled +1.4% Friday at $82.40 (CNBC) after the US said its naval blockade of Iranian ports could continue 'indefinitely' -- the exact escalation flagged as a 'watch item' at Thursday's midday cycle, which explicitly said oil rhetoric alone (with price still flat) wasn't enough to re-enter and to 'revisit if oil actually moves.' Oil has now moved: USO $126.60 vs the $124.365 exit price, and Iran continues to withhold Hormuz reopening pending unmet conditions (sanctions relief, war reparations, frozen funds) per CNBC/Al Jazeera reporting through 8/14, with prices up over 6% on the week. Sized small ($200, ~3.7% of total equity) as a tactical geopolitical trade, not a core holding, consistent with the 8/7 entry sizing."
   }
 ]
