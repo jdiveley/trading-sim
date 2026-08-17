@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-17T17:12:29Z",
-  "last_run_note": "No trades; held all seven positions. Hormuz MOU deadline expired today (Iran ruled out extension, threatened escalation) but oil's price move was modest (+1.3% since Fri) and USO was already re-entered on 8/15 -- not a fresh enough move to add. Only $60.73 cash on hand. Total equity $5,366.69.",
+  "last_run_at": "2026-08-17T20:09:57Z",
+  "last_run_note": "No trades; held all seven positions (3rd cycle today). Trump threatened military action against Oman over Hormuz interference and oil extended its gain (USO +2.9% since 8/15 entry), but this is a continuation of the already-captured Hormuz thesis, not a fresh distinct catalyst; cash remains too thin ($60.73) to add without trimming a core holding. Total equity $5,369.56.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-17T17:12:29Z"
+    "checked_at": "2026-08-17T20:09:57Z"
   },
   "schedule_gaps": [
     {
