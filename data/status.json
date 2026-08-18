@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-17T20:09:57Z",
-  "last_run_note": "No trades; held all seven positions (3rd cycle today). Trump threatened military action against Oman over Hormuz interference and oil extended its gain (USO +2.9% since 8/15 entry), but this is a continuation of the already-captured Hormuz thesis, not a fresh distinct catalyst; cash remains too thin ($60.73) to add without trimming a core holding. Total equity $5,369.56.",
+  "last_run_at": "2026-08-18T14:18:18Z",
+  "last_run_note": "No trades; held all seven positions. Broad risk-off day (30yr yield hit 5.32%, highest since 2007; Nasdaq -1.2%) with oil extending its Hormuz-driven gain (USO +3.2% since 8/15 entry), but this is a continuation of the already-captured Hormuz thesis, not a fresh distinct catalyst; cash remains too thin ($60.73) to add without trimming a core holding. Total equity $5,331.25.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-17T20:09:57Z"
+    "checked_at": "2026-08-18T14:18:18Z"
   },
   "schedule_gaps": [
     {
