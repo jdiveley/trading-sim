@@ -97,5 +97,16 @@
     "amount": 200.0,
     "cash_after": 60.73,
     "rationale": "Re-entering the Hormuz-risk oil trade exited on 8/13: WTI settled +1.4% Friday at $82.40 (CNBC) after the US said its naval blockade of Iranian ports could continue 'indefinitely' -- the exact escalation flagged as a 'watch item' at Thursday's midday cycle, which explicitly said oil rhetoric alone (with price still flat) wasn't enough to re-enter and to 'revisit if oil actually moves.' Oil has now moved: USO $126.60 vs the $124.365 exit price, and Iran continues to withhold Hormuz reopening pending unmet conditions (sanctions relief, war reparations, frozen funds) per CNBC/Al Jazeera reporting through 8/14, with prices up over 6% on the week. Sized small ($200, ~3.7% of total equity) as a tactical geopolitical trade, not a core holding, consistent with the 8/7 entry sizing."
+  },
+  {
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T20:09:52Z",
+    "action": "SELL",
+    "ticker": "NVDA",
+    "qty": 1.3652,
+    "price": 219.74,
+    "amount": 299.99,
+    "cash_after": 360.72,
+    "rationale": "Trimming ~28% of the NVDA position on a fresh, ticker-specific negative catalyst distinct from prior recycled financing headlines: a Jefferies note on AMD's Advancing AI 2026 event (today) says AMD's Helios/ROCm.AI roadmap may put it ahead of Nvidia in some areas, with Anthropic and OpenAI flagged as planning rapid adoption -- a direct threat to NVDA's key-customer concentration -- compounded by disclosure that hedge fund Third Point fully exited its NVDA stake, and a same-day sector-wide semiconductor selloff (Philadelphia Semiconductor Index -3.7 to -5.5%, Western Digital -7%, Sandisk -9%, Marvell -9%, Seagate -8%) alongside the 30yr Treasury yield hitting a fresh ~19-year high (5.337%). NVDA itself traded down ~2-5% today on this combination. Reducing risk into the 8/26 earnings catalyst rather than exiting entirely -- remaining stake (3.459 sh, ~$760, ~14.3% of equity) keeps upside exposure. Proceeds rebuild the cash buffer, which policy flags as too thin at $60.73 (~1.1% of equity)."
   }
 ]
