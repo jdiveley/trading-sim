@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-18T20:09:52Z",
-  "last_run_note": "1 trade executed: trimmed ~28% of NVDA ($299.99) on a fresh Jefferies note flagging AMD's competitive AI roadmap plus Third Point's disclosed full NVDA exit, amid a same-day semiconductor sector selloff -- risk management ahead of 8/26 earnings. Held all other six positions. Cash buffer rebuilt to $360.72. Total equity $5,324.67.",
+  "last_run_at": "2026-08-19T14:17:09Z",
+  "last_run_note": "1 trade executed: initiated a small TLT position ($150.00, 1.8084 sh @ $82.945) on the US Treasury's fresh announcement it will double long-end debt buybacks, diversifying bond-ETF duration alongside existing short-duration SHY. Held all other seven positions. Cash $210.72. Total equity $5,355.01.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-18T20:09:52Z"
+    "checked_at": "2026-08-19T14:17:09Z"
   },
   "schedule_gaps": [
     {
