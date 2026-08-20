@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-20T17:10:31Z",
-  "last_run_note": "No trades; held all eight positions (2nd cycle today). No new catalyst since 9am -- Treasury/yield, oil/Iran, AMZN drone all already assessed; prices flat. Cash $210.72. Total equity $5360.07.",
+  "last_run_at": "2026-08-20T20:11:56Z",
+  "last_run_note": "No trades; held all eight positions (3rd/final cycle today). Nothing new since 9am/midday -- yield reversal, Hormuz oil, gold record and AMZN drone all previously assessed; USO not confirming the Brent headline spike. Cash $210.72. Total equity $5356.29.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-20T17:11:56Z"
+    "checked_at": "2026-08-20T20:12:30Z"
   },
   "schedule_gaps": [
     {
