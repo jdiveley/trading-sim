@@ -1,11 +1,16 @@
 {
-  "cash": 210.72,
-  "as_of": "2026-08-20T17:10:31Z",
+  "cash": 80.73,
+  "as_of": "2026-08-21T17:11:33Z",
   "holdings": [
     {
       "ticker": "NVDA",
       "qty": 3.459,
       "avg_cost": 207.29
+    },
+    {
+      "ticker": "AAPL",
+      "qty": 0.4172,
+      "avg_cost": 311.58
     },
     {
       "ticker": "GLD",

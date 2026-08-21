@@ -119,5 +119,16 @@
     "amount": 150.0,
     "cash_after": 210.72,
     "rationale": "US Treasury announced today it will at least double its long-end liquidity support buyback operations (10-20yr and 20-30yr sectors, $2B to at least $4B per operation, effective 9/9 through the current refunding quarter) after 30yr yields hit a fresh 19-year high; 30yr yield fell 9bps to 5.20% today and Bloomberg/CNBC report both stocks and long-dated Treasuries rallied on the news. This is a genuine, dated, mechanistic policy catalyst (an actual Treasury action, not rhetoric) specifically benefiting long-duration bonds -- distinct from the existing SHY position, which was deliberately sized short-duration to avoid this exact rate risk. Initiating a small TLT position ($150, ~2.8% of equity) for duration diversification within the bond-ETF sleeve, funded from cash, leaving a $210.72 buffer."
+  },
+  {
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T17:11:33Z",
+    "action": "BUY",
+    "ticker": "AAPL",
+    "qty": 0.4172,
+    "price": 311.58,
+    "amount": 129.99,
+    "cash_after": 80.73,
+    "rationale": "Initiating a small AAPL position on the market-reaction data that was explicitly missing the last two cycles: BofA analyst Wamsi Mohan today reiterated a Buy rating with a $380 price target (~20% upside from Apple's $316.83 8/20 close) alongside the confirmed Sept 1 CEO handover from Tim Cook to John Ternus, with coverage headlined 'Apple Stock Jumps on BofA Price-Target Boost Ahead of Earnings' -- a concrete, named-analyst valuation call tied to an actual price reaction, not just governance-transition news. BofA also flagged Ternus likely pursuing bolder R&D/capex and larger acquisitions. Sized small ($129.99, ~2.4% of total equity) given the thin cash buffer, funded from cash leaving an $80.73 buffer."
   }
 ]
