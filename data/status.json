@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-22T14:10:41Z",
-  "last_run_note": "Weekend (Sat) cycle; all quotes stale-matched Friday's close exactly, no new price action. Research found nothing clearing the bar for a fresh catalyst (AAPL Vision Pro/Siri job cuts confirmed but neutral; GOOGL/Marvell deal already priced in). No trades; held all nine positions. Cash $80.73. Total equity $5379.55.",
+  "last_run_at": "2026-08-22T17:08:26Z",
+  "last_run_note": "Second Saturday cycle; quotes still stale-matched Friday's close exactly across the board, no new price action. Corrected a stale watch item (Hormuz MOU actually expired 8/17, not an upcoming 8/24 deadline); nothing else cleared the bar for a fresh catalyst. No trades; held all nine positions. Cash $80.73. Total equity $5379.33.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-22T14:12:47Z"
+    "checked_at": "2026-08-22T17:14:13Z"
   },
   "schedule_gaps": [
     {
