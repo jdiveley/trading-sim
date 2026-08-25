@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-25T17:10:39Z",
-  "last_run_note": "Midday (12pm CDT) cycle, day before NVDA's Wed 8/26 after-close earnings. Market mixed intraday (Dow +0.3%, S&P/Nasdaq softer on tech weakness) ahead of Jackson Hole and NVDA earnings. NVDA AI-server price-hike story is a few days old and cuts both ways; GOOGL's Jeff Dean shakeup and AMZN's Citizens PT are the same already-logged items; GLD and SLV headline prices again diverged from actual fetched prices. No genuine new catalyst cleared the bar for any ticker, and cash remains thin ($80.73, ~1.5% of equity). No trades; held all nine positions. Cash $80.73. Total equity $5386.38.",
+  "last_run_at": "2026-08-25T20:12:36Z",
+  "last_run_note": "Afternoon (3pm CDT) cycle, last cycle before NVDA's Wed 8/26 after-close earnings. Sold USO in full ($199.21, essentially breakeven) as WTI fell ~3-4% over two sessions on markets judging the new Iran sanctions package as economic rather than military, deflating the Hormuz risk premium that justified the position (same exit logic used 8/13). Held all other eight positions; no other catalyst cleared the bar. Cash $279.94. Total equity $5400.05.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-25T17:20:00Z"
+    "checked_at": "2026-08-25T20:15:00Z"
   },
   "schedule_gaps": [
     {

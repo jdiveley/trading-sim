@@ -130,5 +130,16 @@
     "amount": 129.99,
     "cash_after": 80.73,
     "rationale": "Initiating a small AAPL position on the market-reaction data that was explicitly missing the last two cycles: BofA analyst Wamsi Mohan today reiterated a Buy rating with a $380 price target (~20% upside from Apple's $316.83 8/20 close) alongside the confirmed Sept 1 CEO handover from Tim Cook to John Ternus, with coverage headlined 'Apple Stock Jumps on BofA Price-Target Boost Ahead of Earnings' -- a concrete, named-analyst valuation call tied to an actual price reaction, not just governance-transition news. BofA also flagged Ternus likely pursuing bolder R&D/capex and larger acquisitions. Sized small ($129.99, ~2.4% of total equity) given the thin cash buffer, funded from cash leaving an $80.73 buffer."
+  },
+  {
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T20:12:36Z",
+    "action": "SELL",
+    "ticker": "USO",
+    "qty": 1.5798,
+    "price": 126.1,
+    "amount": 199.21,
+    "cash_after": 279.94,
+    "rationale": "Exiting the tactical Hormuz-risk oil position re-entered 8/15: WTI has fallen roughly 3-4% over the past two sessions to a one-week low (~$82.51, TradingEconomics/CNBC, dated 8/25) as markets increasingly judge the newly-detailed Iran sanctions package (Bessent's country-by-country economic pressure plan, 'Operation Economic Outcast') as economic rather than military, reducing the Hormuz supply-disruption risk premium that justified the position -- confirmed by our own fetched USO price sliding from Monday's $132.16 close to $126.10 today. This mirrors the exact catalyst-reversal logic used to exit this same trade on 8/13 ('the risk premium that justified it is deflating'). Closing essentially at breakeven (-$0.79 vs avg cost $126.60) rather than chasing further downside, and returning the cash to rebuild the buffer that policy has flagged as too thin ($80.73, ~1.5% of equity) for several consecutive cycles."
   }
 ]
