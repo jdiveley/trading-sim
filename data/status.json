@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-25T20:12:36Z",
-  "last_run_note": "Afternoon (3pm CDT) cycle, last cycle before NVDA's Wed 8/26 after-close earnings. Sold USO in full ($199.21, essentially breakeven) as WTI fell ~3-4% over two sessions on markets judging the new Iran sanctions package as economic rather than military, deflating the Hormuz risk premium that justified the position (same exit logic used 8/13). Held all other eight positions; no other catalyst cleared the bar. Cash $279.94. Total equity $5400.05.",
+  "last_run_at": "2026-08-26T14:19:37Z",
+  "last_run_note": "Morning (9am CDT) cycle on Nvidia earnings day (reports after today's close, well after all three scheduled cycles). No trades; held all eight positions -- no catalyst cleared the bar, and pre-earnings sentiment on NVDA is not a new dated catalyst per policy. Cash $279.94. Total equity $5375.31.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-25T20:15:00Z"
+    "checked_at": "2026-08-26T14:24:00Z"
   },
   "schedule_gaps": [
     {
