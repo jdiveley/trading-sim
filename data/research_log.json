@@ -1770,5 +1770,22 @@
       "Watchlist USO (not held, $130.02): WTI fell further to ~$81.36/bbl after Iran and Oman formally agreed on their Strait of Hormuz revenue/boundary split -- firms up the de-escalation thesis already used to exit this position on 8/25. No re-entry signal (thesis still bearish for oil). No action.",
       "Watchlist SLV (not held, $62.765) and DBC (not held, $30.855): no fresh standalone dated catalyst found beyond the gold/oil moves already covered above. No action."
     ]
+  },
+  {
+    "date": "2026-08-28T14:23:41Z",
+    "market_summary": "Morning (9am CDT) cycle, first of the day. Markets in a holding pattern ahead of Fed Chair Warsh's Jackson Hole speech today (Fri 8/28); Nasdaq-100 futures dipped ~0.3% premarket on weakness in Marvell/Rubrik while S&P futures were roughly flat, on pace for a weekly gain after Nvidia's post-earnings rally. 10yr yield ~4.65-4.68%; gold range-bound ,600-4,650/oz (Dec futures) awaiting the speech; Brent crude ~9.68/bbl. All-HOLD cycle -- nothing found today clears the bar for a fresh, dated catalyst distinct from what prior cycles already logged. Cash 79.94. Total equity ,436.95 (holdings ,157.01), up modestly from yesterday's close (,431.96) on continued NVDA/GOOGL/AAPL strength.",
+    "notes": [
+      "NVDA (held, 3.459 sh @ avg 07.29, now 24.34, +8.2%): still riding the 8/26 post-earnings rally (Q2 revenue 6.22B +106% YoY, ~70% FY28 growth guide) -- same catalyst already fully analyzed and held-not-added at multiple prior cycles. Other items (Nvidia halting AI-cloud revenue-sharing deals, a Raymond James 15 street-high target) lack pinned dates. HELD, no action.",
+      "AAPL (held, 0.4172 sh @ avg 11.58, now 16.94, +1.7%): Sept 9 launch event (first under new CEO John Ternus) is still ~2 weeks out, same item already logged. A cited BofA \"70 target\" is inconsistent with the current ~14-317 price and looks like stale/misreported data -- not acting on it. HELD, no action.",
+      "GOOGL (held, 2.5052 sh @ avg 19.33, now 43.86, +7.7%): Quantum Echoes announcement and Jeff Dean AI-division departure both read as older items resurfacing without fresh dates; Marvell AI-chip partnership also undated. No fresh valuation-moving catalyst. HELD, no action.",
+      "MSFT (held, 1.5363 sh @ avg 90.54, now 10.87, +30.9%): \"AI at Work Roadmap\" and a WSJ AI-disclosure-transparency piece both lack confirmed dates; a ChronoScale 50MW compute deal is undated and was already assessed as too small previously. HELD, no action.",
+      "AMZN (held, 2.2386 sh @ avg 68.02, now 60.76, -2.7%): JPMorgan reiterated bullish view on accelerating H2 AWS growth (Anthropic, Project Rainier) but with no pinned date, offset by profit-taking and softness ahead of Q3 results. Not a clean fresh catalyst either direction. HELD, no action.",
+      "GLD (held, 2.668 sh @ avg 74.81, now 18.82, +11.7%): the Aug 24 large options roll (116k calls rolled to higher strikes, read as \"waning confidence\") was already evaluated and held-not-acted-on at the 8/27 cycle; nothing new since. Gold remains range-bound into today's Jackson Hole speech. HELD, no action.",
+      "SHY (held, 9.1586 sh @ avg 1.89, now 1.955, +0.08%): steady-state, 10yr ~4.65-4.68%, no notable catalyst this week. HELD, no action.",
+      "TLT (held, 1.8084 sh @ avg 2.945, now 3.37, +0.5%): mixed technical signals (positive MACD since 8/13 vs. a 3-month bearish technical projection); a Benzinga \"lowest since 2004 / 5.336% 30yr yield\" framing contradicts the sim's roughly-flat TLT position and is flagged as unreliable/stale. No fresh fundamental catalyst. HELD, no action.",
+      "Watchlist AMD (not held, 76.67): genuine Q2 earnings beat (revenue 1.54B +50% YoY, data-center revenue doubled YoY, guide above consensus) but reported earlier this month -- reaction still being discussed but not fresh today. No entry this cycle; keeping on watchlist.",
+      "Watchlist SLV (not held, 2.31) and USO (not held, ~28-132, conflicting Hormuz narratives in search results -- data quality flagged as unreliable): no clean, fresh, actionable catalyst either. No action.",
+      "Watchlist TSLA (not held, 54.65): mixed signals (Optimus production start, Nevada robotaxi permit expansion vs. a large China recall and a stock slide on Aug 26). Not a clear directional catalyst. No action."
+    ]
   }
 ]
