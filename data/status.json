@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-28T17:11:45Z",
-  "last_run_note": "Midday (12pm CDT) cycle. No trades; all-HOLD -- Fed Chair Warsh's hawkish-leaning Jackson Hole speech moved short-term yields (2yr +8bps to 4.31%) and pulled stocks off earlier highs, but that's macro noise already reflected in fetched prices. A new but unconfirmed semiconductor-tariff report (NVDA/AMD) didn't clear the bar (not enacted, not priced in). All other per-ticker items were already-logged. Cash $279.94. Total equity $5,415.73.",
+  "last_run_at": "2026-08-28T20:12:29Z",
+  "last_run_note": "3pm CDT cycle. No trades; all-HOLD -- Warsh's Jackson Hole speech continues to be digested (10yr yield up to 4.73%), oil extending its Hormuz-de-escalation slide on an Iran-Oman revenue-sharing report, and a new but non-actionable item (NVDA paused part of its cloud revenue-sharing financing program on antitrust concerns, price roughly flat). No genuine new per-ticker catalyst since the midday cycle. Cash $279.94. Total equity $5,410.05.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-28T17:16:00Z"
+    "checked_at": "2026-08-28T20:15:57Z"
   },
   "schedule_gaps": [
     {
