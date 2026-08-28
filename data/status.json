@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-28T14:23:41Z",
-  "last_run_note": "Morning (9am CDT) cycle, first of the day. No trades; all-HOLD -- nothing found clears the bar for a fresh, dated catalyst distinct from prior cycles (NVDA earnings rally continuation, AAPL Sept 9 event still 2 weeks out, GLD's Aug 24 options roll already evaluated 8/27, GOOGL/MSFT/AMZN items undated or already-logged). Watchlist AMD earnings beat is over a week old, not fresh today. Cash $279.94. Total equity $5,436.95.",
+  "last_run_at": "2026-08-28T17:11:45Z",
+  "last_run_note": "Midday (12pm CDT) cycle. No trades; all-HOLD -- Fed Chair Warsh's hawkish-leaning Jackson Hole speech moved short-term yields (2yr +8bps to 4.31%) and pulled stocks off earlier highs, but that's macro noise already reflected in fetched prices. A new but unconfirmed semiconductor-tariff report (NVDA/AMD) didn't clear the bar (not enacted, not priced in). All other per-ticker items were already-logged. Cash $279.94. Total equity $5,415.73.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-28T14:29:00Z"
+    "checked_at": "2026-08-28T17:16:00Z"
   },
   "schedule_gaps": [
     {
