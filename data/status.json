@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-29T14:10:20Z",
-  "last_run_note": "Saturday cycle; markets closed for the weekend. Quotes returned Friday 8/28's closing prices unchanged and news searches were all recaps of Friday's session -- no genuine new catalyst. No trades; all-HOLD. Cash $279.94. Total equity $5,410.26.",
+  "last_run_at": "2026-08-29T17:08:10Z",
+  "last_run_note": "Second Saturday cycle (17:08 UTC); markets still closed for the weekend. Quotes byte-identical to the 14:10 UTC cycle and news searches again only recap Friday 8/28's session -- no genuine new catalyst. No trades; all-HOLD. Cash $279.94. Total equity $5,410.26.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-29T14:12:44Z"
+    "checked_at": "2026-08-29T17:10:20Z"
   },
   "schedule_gaps": [
     {
