@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-28T20:12:29Z",
-  "last_run_note": "3pm CDT cycle. No trades; all-HOLD -- Warsh's Jackson Hole speech continues to be digested (10yr yield up to 4.73%), oil extending its Hormuz-de-escalation slide on an Iran-Oman revenue-sharing report, and a new but non-actionable item (NVDA paused part of its cloud revenue-sharing financing program on antitrust concerns, price roughly flat). No genuine new per-ticker catalyst since the midday cycle. Cash $279.94. Total equity $5,410.05.",
+  "last_run_at": "2026-08-29T14:10:20Z",
+  "last_run_note": "Saturday cycle; markets closed for the weekend. Quotes returned Friday 8/28's closing prices unchanged and news searches were all recaps of Friday's session -- no genuine new catalyst. No trades; all-HOLD. Cash $279.94. Total equity $5,410.26.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-28T20:15:57Z"
+    "checked_at": "2026-08-29T14:12:44Z"
   },
   "schedule_gaps": [
     {
