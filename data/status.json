@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-30T20:08:25Z",
-  "last_run_note": "Third Sunday cycle (20:08 UTC); markets closed for the weekend. Quotes byte-identical to all prior weekend cycles; research check again found no genuine new catalyst since Friday 8/28's close (flagged and discarded another stale/auto-generated page misdating itself as live 8/30 data). No trades; all-HOLD. Cash $279.94. Total equity $5,410.26.",
+  "last_run_at": "2026-08-31T14:20:54Z",
+  "last_run_note": "First weekday cycle after the weekend; markets open, quotes moved for the first time since Friday's close. US struck Iranian rocket launchers near the Strait of Hormuz on 8/30, Iran retaliated -- genuine fresh military escalation. 2 trades: trimmed GLD $200.02 (gold sank on same-day war-risk headlines, signaling Fed-hike positioning dominating) and re-entered tactical USO $200.00 (oil surged on the strikes). Cash $279.96. Total equity $5,365.61.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-30T20:11:34Z"
+    "checked_at": "2026-08-31T14:26:00Z"
   },
   "schedule_gaps": [
     {

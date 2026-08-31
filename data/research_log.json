@@ -1888,5 +1888,20 @@
       "Bond market: 10yr/30yr/2yr yields unchanged from Friday's already-logged levels; no fresh catalyst.",
       "No watchlist re-entry signals -- market closed, no fresh dated news found this cycle."
     ]
+  },
+  {
+    "date": "2026-08-31T14:20:54Z",
+    "market_summary": "First weekday cycle after the weekend (Monday 8/31, 14:20 UTC) -- markets open again after five weekend no-op cycles, and quotes moved for the first time since Friday 8/28's close. Dominant catalyst: US forces struck Iranian rocket launchers on Sunday 8/30 that were preparing to send mines into the Strait of Hormuz, ending weeks of relative calm; Iran retaliated with strikes on two US bases (CNBC, Al Jazeera, The National). Oil surged (Brent >$90/bbl, WTI ~$86, our fetched USO $133.02 vs $126.10 on 8/25). Gold, by contrast, sank (~1% on Dec futures) despite the war-risk headline -- Yahoo Finance's own framing was 'gold sinks following U.S. strikes on Iran' -- because Fed rate-hike odds (57% for a Sept hike, up from ~40% a week ago) after Chair Warsh's hawkish Jackson Hole remarks are outweighing safe-haven demand; 10yr yield ~4.72%, 30yr ~5.21%. Equities were mixed: Dow -0.9% (ending a 5-day win streak), S&P -0.3%, but tech (XLK) rose 3.2%, consistent with continued strength across our large-cap tech holdings.",
+    "notes": [
+      "NVDA $219.94: MediaTek collaboration deepened (Nvidia investing $3.5B) for AI computing platforms; still Strong Buy consensus (58 buy / 1 sell), avg target $323. No new sell-side catalyst distinct from the already-logged 8/26 beat-and-raise; held, no action.",
+      "AAPL $316.18: Tim Cook's last day as CEO -- John Ternus formally takes over today, a scheduled transition already priced in and previously traded on the BofA price-target catalyst (8/21 entry); no new actionable signal, held.",
+      "GOOGL $338.29: UK settled a \u00a3260M class-action suit; CrowdStrike/Google Cloud Falcon partnership; $0.22 dividend declared (ex-date 9/4). Routine positive newsflow, not a fresh trading catalyst; held.",
+      "MSFT $508.15: Reassuring employees on AI data-center impacts; Cloud/Azure strength already reflected in the logged FY26 Q4 beat. No new catalyst; held.",
+      "AMZN $260.25: AWS reacceleration to 37% YoY and a bull case on 21x P/E vs peers reiterated; Evercore $355 target already logged. No new catalyst; held.",
+      "GLD: sold $200.02 (0.4926 sh @ $406.045) -- gold sinking on the same day as fresh war-risk headlines is a concrete signal that Fed-hike positioning now dominates precious-metals flows; trimmed the largest position (was 20.2% of equity, +8.3% unrealized) to fund the fresh oil trade without drawing the cash buffer down further. Remaining GLD: 2.1754 sh (~16.5% of equity).",
+      "USO: bought $200.00 (1.5035 sh @ $133.02) -- re-entering the recurring tactical Hormuz-risk oil trade on an escalation that is qualitatively different from prior cycles (actual exchanged strikes, not rhetoric or a draft plan), consistent with the same entry/exit sizing and logic used on 8/7, 8/15 and 8/25.",
+      "SHY/TLT: no fresh duration-specific catalyst today (yields roughly flat to Friday); held both for diversification.",
+      "Watchlist scan (AMD $470.50, TSLA $361.65, SLV $59.905, DBC $31.195, BND $72.186, AGG $97.325): no name surfaced a concrete, dated catalyst distinct from existing positions; no new entries."
+    ]
   }
 ]

@@ -141,5 +141,27 @@
     "amount": 199.21,
     "cash_after": 279.94,
     "rationale": "Exiting the tactical Hormuz-risk oil position re-entered 8/15: WTI has fallen roughly 3-4% over the past two sessions to a one-week low (~$82.51, TradingEconomics/CNBC, dated 8/25) as markets increasingly judge the newly-detailed Iran sanctions package (Bessent's country-by-country economic pressure plan, 'Operation Economic Outcast') as economic rather than military, reducing the Hormuz supply-disruption risk premium that justified the position -- confirmed by our own fetched USO price sliding from Monday's $132.16 close to $126.10 today. This mirrors the exact catalyst-reversal logic used to exit this same trade on 8/13 ('the risk premium that justified it is deflating'). Closing essentially at breakeven (-$0.79 vs avg cost $126.60) rather than chasing further downside, and returning the cash to rebuild the buffer that policy has flagged as too thin ($80.73, ~1.5% of equity) for several consecutive cycles."
+  },
+  {
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T14:20:54Z",
+    "action": "SELL",
+    "ticker": "GLD",
+    "qty": 0.4926,
+    "price": 406.045,
+    "amount": 200.02,
+    "cash_after": 479.96,
+    "rationale": "Trimming ~18% of the largest position (GLD, 20.2% of equity, +8.3% unrealized) on a same-day bearish catalyst: gold opened down ~1.0% today (Dec futures $4,483.20 vs Friday's close) and Yahoo Finance's headline explicitly frames it as 'gold sinks following U.S. strikes on Iran' -- the metal failing to catch a safe-haven bid despite fresh Sunday military escalation (US strikes on Iranian rocket launchers near the Strait of Hormuz) because rising Fed rate-hike odds (57% for a Sept hike, up from ~40% a week ago, after Chair Warsh's hawkish Jackson Hole remarks) are dominating precious-metals positioning. Locking in part of the gain and freeing cash to both rebuild the thin buffer and fund a fresh, differently-catalyzed tactical trade below."
+  },
+  {
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T14:20:54Z",
+    "action": "BUY",
+    "ticker": "USO",
+    "qty": 1.5035,
+    "price": 133.02,
+    "amount": 200.0,
+    "cash_after": 279.96,
+    "rationale": "Re-entering the tactical Hormuz-risk oil trade (last exited 8/25 at $126.10) on a genuine escalation beyond anything in the prior cycle: per CNBC/Al Jazeera/The National, US forces struck Iranian rocket launchers on Sunday 8/30 that were preparing to send mines into the Strait of Hormuz, ending weeks of relative calm, and Iran retaliated with strikes on two US bases -- actual exchanged fire, not rhetoric or a draft restriction. Oil has moved sharply on it: Brent above $90/bbl, WTI near $86, and our own fetched USO quote ($133.02) is up ~5.5% from the 8/25 exit price, confirming the move is real and already reflected in the ETF. Sized at $200 (~3.7% of total equity), consistent with every prior entry/exit cycle of this same tactical position, funded from the GLD trim above rather than drawing the cash buffer down further."
   }
 ]
