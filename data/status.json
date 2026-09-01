@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-08-31T20:10:54Z",
-  "last_run_note": "Third/final cycle of Monday 8/31, ~3h after the midday HOLD. Research confirmed the same Iran-strike/Fed-hawkishness themes continuing with no genuinely new, dated, ticker-specific catalyst since 17:11 -- a generic commodity search (stale/contradictory gold+oil figures) and a recurring AMZN EPS figure were flagged as unreliable and discarded. No trades; held all positions. Cash $279.96. Total equity $5,374.61.",
+  "last_run_at": "2026-09-01T14:21:08Z",
+  "last_run_note": "First cycle of Tuesday 9/1. Trimmed GLD further (~$200) on worsening gold-down/Fed-hike-odds-up trend (66.4% vs 57.5%); held all other positions -- Monday-night Hormuz tanker/island-strike headlines were inconsistent across sources and not acted on. Cash $479.95. Total equity $5,329.90.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-08-31T20:20:00Z"
+    "checked_at": "2026-09-01T14:23:00Z"
   },
   "schedule_gaps": [
     {

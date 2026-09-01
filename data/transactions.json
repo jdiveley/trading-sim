@@ -163,5 +163,16 @@
     "amount": 200.0,
     "cash_after": 279.96,
     "rationale": "Re-entering the tactical Hormuz-risk oil trade (last exited 8/25 at $126.10) on a genuine escalation beyond anything in the prior cycle: per CNBC/Al Jazeera/The National, US forces struck Iranian rocket launchers on Sunday 8/30 that were preparing to send mines into the Strait of Hormuz, ending weeks of relative calm, and Iran retaliated with strikes on two US bases -- actual exchanged fire, not rhetoric or a draft restriction. Oil has moved sharply on it: Brent above $90/bbl, WTI near $86, and our own fetched USO quote ($133.02) is up ~5.5% from the 8/25 exit price, confirming the move is real and already reflected in the ETF. Sized at $200 (~3.7% of total equity), consistent with every prior entry/exit cycle of this same tactical position, funded from the GLD trim above rather than drawing the cash buffer down further."
+  },
+  {
+    "date": "2026-09-01",
+    "timestamp": "2026-09-01T14:21:08Z",
+    "action": "SELL",
+    "ticker": "GLD",
+    "qty": 0.4988,
+    "price": 400.94,
+    "amount": 199.99,
+    "cash_after": 479.95,
+    "rationale": "Trimming ~23% of the remaining GLD position on a worsening, same-direction bearish catalyst: gold is actively sinking today (Yahoo: Dec futures opened +0.4% but spot down to $397.25 pre-market, -2.73%; GLD itself closed $408.42 on 8/31 vs our fetched $400.94 now, a fresh leg down) as Fed rate-hike odds for September climbed further to 66.4% (up from 57.5% at Monday's close, per CME FedWatch) on Fed Chair Warsh's Jackson Hole 'work to do' remarks -- the identical mechanism already used to trim GLD on 8/31, now with a materially worse probability print and price still falling rather than stabilizing. Corroborated by two independent sources (Yahoo Finance gold-price article, TradingEconomics-style commodity summary) agreeing on direction and magnitude. Locking in more of the gain (remaining stake +6.97% unrealized before this trim) and rebuilding the cash buffer, which was thin at 5.25% of equity. Passed on adding to USO despite the Monday-night Hormuz tanker-strike headlines (TheStreet: Saudi/S.Korean tankers hit by projectiles; Bloomberg: US hit an island, Iran struck UAE/Jordan) because the two sources describe materially different events/locations for the same night -- exactly the kind of inconsistent, possibly-conflated reporting this log has discarded before -- and the existing USO position already captures the broader oil-up move (+2.56% unrealized). All four large-cap equity holdings (NVDA, AAPL, GOOGL, MSFT, AMZN) are down today only on the same macro Iran/yields story already traded on over the last two cycles, with no new ticker-specific catalyst, so held unchanged."
   }
 ]
