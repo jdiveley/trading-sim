@@ -1,6 +1,6 @@
 {
-  "cash": 229.95,
-  "as_of": "2026-09-02T20:11:02Z",
+  "cash": 129.94,
+  "as_of": "2026-09-03T14:17:25Z",
   "holdings": [
     {
       "ticker": "NVDA",
@@ -24,8 +24,8 @@
     },
     {
       "ticker": "GOOGL",
-      "qty": 2.5052,
-      "avg_cost": 319.33
+      "qty": 2.7971,
+      "avg_cost": 321.7619
     },
     {
       "ticker": "MSFT",
