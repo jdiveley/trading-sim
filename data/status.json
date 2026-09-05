@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-05T17:09:05Z",
-  "last_run_note": "Saturday 9/5 late-afternoon weekend cycle. No trades; held all 10 positions. Market still closed -- all quotes identical to the 14:09Z cycle and Friday 9/4's close, no genuine new catalyst (OPEC+ JMMC review still pending for 9/6). Cash $54.94. Total equity $5,399.36.",
+  "last_run_at": "2026-09-05T20:09:21Z",
+  "last_run_note": "Saturday 9/5 3pm CDT weekend cycle. No trades; held all 10 positions. Market still closed -- all quotes identical to the 17:09Z cycle and Friday 9/4's close. New Hormuz tanker-strike escalation (CNN, 9/5) noted as a Monday watch item but not tradeable without a price move. Cash $54.94. Total equity $5,399.36.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-05T17:11:01Z"
+    "checked_at": "2026-09-05T20:10:56Z"
   },
   "schedule_gaps": [
     {
