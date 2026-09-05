@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-05T14:09:20Z",
-  "last_run_note": "Saturday 9/5 weekend cycle. No trades; held all 10 positions. Market closed -- every fetched quote (holdings + watchlist) identical to Friday 9/4's close, so no genuine new price movement or dated catalyst to act on. OPEC+'s JMMC review is tomorrow (9/6), not yet decided. Cash $54.94. Total equity $5,399.36.",
+  "last_run_at": "2026-09-05T17:09:05Z",
+  "last_run_note": "Saturday 9/5 late-afternoon weekend cycle. No trades; held all 10 positions. Market still closed -- all quotes identical to the 14:09Z cycle and Friday 9/4's close, no genuine new catalyst (OPEC+ JMMC review still pending for 9/6). Cash $54.94. Total equity $5,399.36.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-05T14:24:00Z"
+    "checked_at": "2026-09-05T17:11:01Z"
   },
   "schedule_gaps": [
     {
