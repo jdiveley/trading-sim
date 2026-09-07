@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-07T17:10:37Z",
-  "last_run_note": "Monday 9/7 (Labor Day) midday cycle. No trades; held all 10 positions. US markets still closed for the holiday -- all quotes identical to Friday 9/4's close and every prior weekend/holiday cycle (MSFT's $499.70 cross-checked against Yahoo's 5-day chart and confirmed genuine, not a glitch). Brent briefly topped $98/bbl on Hormuz risk and Iran signaled an Oman deal on shipping is imminent, but no US price to trade on today. Cash $54.94. Total equity $5,399.36. Reopens Tuesday 9/8.",
+  "last_run_at": "2026-09-07T20:09:29Z",
+  "last_run_note": "Monday 9/7 (Labor Day) evening cycle. No trades; held all 10 positions. US markets still closed for the holiday -- all quotes byte-identical to Friday 9/4's close and every prior weekend/holiday cycle today. Iran/Hormuz tanker war (US disabled/destroyed 3 Iranian tankers, Iran hit 3 more plus US-linked vessels, strait effectively closed) unchanged since midday, no new escalation, and no US price to trade on regardless. Cash $54.94. Total equity $5,399.36. Reopens Tuesday 9/8.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-07T17:13:00Z"
+    "checked_at": "2026-09-07T20:12:00Z"
   },
   "schedule_gaps": [
     {
