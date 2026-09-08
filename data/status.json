@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-07T20:09:29Z",
-  "last_run_note": "Monday 9/7 (Labor Day) evening cycle. No trades; held all 10 positions. US markets still closed for the holiday -- all quotes byte-identical to Friday 9/4's close and every prior weekend/holiday cycle today. Iran/Hormuz tanker war (US disabled/destroyed 3 Iranian tankers, Iran hit 3 more plus US-linked vessels, strait effectively closed) unchanged since midday, no new escalation, and no US price to trade on regardless. Cash $54.94. Total equity $5,399.36. Reopens Tuesday 9/8.",
+  "last_run_at": "2026-09-08T14:15:48Z",
+  "last_run_note": "Tuesday 9/8 morning cycle -- first live trading day after 8 frozen weekend/holiday cycles. No trades; held all 10 positions. Real price movement confirmed via independent sources. Oil up on confirmed Hormuz escalation (Brent ~$100, 6-week high) but USO position already sized for this thesis; gold's 'down on escalation' headline contradicted by our own flat/up GLD price; AMZN cargo-plane-crash headline lacks clean price confirmation; AAPL pre-event (9/9 launch) held per established discipline. Cash $54.94. Total equity $5,361.77.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-07T20:12:00Z"
+    "checked_at": "2026-09-08T14:20:00Z"
   },
   "schedule_gaps": [
     {
