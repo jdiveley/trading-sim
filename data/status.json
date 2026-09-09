@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-09T17:10:40Z",
-  "last_run_note": "Wednesday 9/9 midday cycle. No trades; held all positions -- no genuine new catalyst since the 14:17 UTC cycle (oil/gold prices essentially unchanged from this morning's fills). AAPL held pending today's 'Surprise and Shine' event, which starts at 18:00 UTC (~50 min after this cycle) -- no reaction to trade on yet. Cash $104.96. Total equity $5,339.16.",
+  "last_run_at": "2026-09-09T20:12:42Z",
+  "last_run_note": "Wednesday 9/9 evening cycle. No trades; held all positions. AAPL 'Surprise and Shine' event landed (foldable iPhone Duo confirmed, $1,999) with a modest sell-the-news dip, not a fresh directional signal. Oil escalation continued (Jordan base strike, more Hormuz tanker attacks) but USO position already sized and cash buffer thin, so no add. Cash $104.96. Total equity $5,340.59.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-09T17:20:00Z"
+    "checked_at": "2026-09-09T20:14:39Z"
   },
   "schedule_gaps": [
     {
