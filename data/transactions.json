@@ -218,5 +218,27 @@
     "amount": 75.0,
     "cash_after": 54.94,
     "rationale": "Initiating a small SLV position on a fresh, dated, multi-source-confirmed catalyst distinct from anything previously traded: silver is rallying hard today (TradingEconomics/CNBC-style aggregators, Sept 3-4) to ~$67.41/oz, +3.2% on the day and +13.28% on the month, on retreating Treasury yields and a weaker dollar after Fed Governor Waller's dovish September-hold comments -- the same macro driver behind this week's bond-yield pullback (10yr eased to ~4.75-4.77% from a ~4.818% multi-year high). This is the same broad Middle East-risk-off-into-commodities theme lifting GLD and oil, but SLV/silver specifically has no existing position, so this adds cross-asset diversification into commodities (policy already satisfied re: 2-of-3 asset classes, but this strengthens it) without concentrating further in GLD or USO. Skipped adding to USO despite a claimed fresh Iran/Hormuz retaliation escalation because our own fetched USO price ($138.87) is actually LOWER than the prior cycle's $142.05 fill reference -- price data contradicts the narrative, consistent with established discipline of requiring price confirmation. Skipped NVDA (Hugging Face deal figure unconfirmed/undated this cycle, likely recycled), AAPL (conflicting analyst calls pre-iPhone-event, no clear direction), GOOGL (dividend ex-date only, not a trading catalyst), GLD/MSFT/AMZN (no fresh dated catalyst, mostly recycled from prior weeks), AMD/TSLA (watchlist items flagged as unconfirmed or internally inconsistent by research). Sized small ($75, ~1.4% of total equity, ~5417.46) given cash was already thin ($129.94, ~2.4% of equity) entering this cycle; leaves a $54.94 cash buffer."
+  },
+  {
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T14:17:14Z",
+    "action": "SELL",
+    "ticker": "GLD",
+    "qty": 0.4933,
+    "price": 405.47,
+    "amount": 200.02,
+    "cash_after": 254.96,
+    "rationale": "Trimming ~29% of GLD (12.7% of equity, +8.18% unrealized) on a fresh, dated, sourced bearish catalyst -- Yahoo Finance's headline today (9/9) explicitly reads 'Gold prices drop following U.S. strikes on five Iranian oil tankers,' with Dec futures opening at $4,399/oz (-0.9% vs Tuesday's close) as rising oil-driven inflation expectations push Fed rate-hike odds higher ahead of next week's FOMC meeting -- the identical mechanism already used to trim GLD on 8/31 and 9/1 (safe-haven demand losing to rate-hike positioning despite active Mideast escalation). Locking in more of the gain and rebuilding the cash buffer, which had fallen to just $54.94 (1.03% of equity), the thinnest this log has run with yet. Proceeds partly redeployed into USO below; remaining buffer improved to $104.96 (~2.0% of equity)."
+  },
+  {
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T14:17:14Z",
+    "action": "BUY",
+    "ticker": "USO",
+    "qty": 1.0115,
+    "price": 148.3,
+    "amount": 150.01,
+    "cash_after": 104.96,
+    "rationale": "Adding to the tactical oil position on a materially larger and distinct escalation beyond anything previously traded: per Bloomberg/CBS News/Al Jazeera/CNBC (all dated 9/9), US forces destroyed five Iranian tankers overnight after Iran fired ballistic missiles at a US Navy warship -- a direct attack on a US vessel, not just tanker strikes or refinery hits like the prior Jazan-refinery headline (traded/passed-on 9/8). Brent crossed $100/bbl for the first time since July (+2.57% to $100.44), WTI +2.03% to $94.92, and our own fetched USO price ($148.30) is up 1.55% from the last cycle's $146.03 fill, confirming the move is real and priced in. Sized at $150 (~2.8% of total equity), funded from the GLD trim above, bringing total USO stake to ~9.9% of equity -- still well under the 30% single-position cap. Held AAPL despite today's 'Surprise and Shine' product event (foldable iPhone rumored, Morgan Stanley calling it Apple's most consequential launch since the iPhone X) because the event's actual outcome/reaction hasn't landed yet -- consistent with this log's established discipline of waiting for the actual reaction rather than buying anticipation (used previously on TSLA's Cybercab event). GOOGL held despite a fresh bearish legal catalyst (a US appeals court let 2,400-3,000+ youth-addiction lawsuits proceed against Google) -- policy governs position sizing and diversification, not a stop-loss trigger, and the position remains modestly profitable (+2.80%). NVDA, MSFT, AMZN, SHY, TLT, SLV all held -- no fresh distinct dated catalyst beyond stories already reflected in price (NVDA's Goldman Sachs conference and dividend ex-date are both 9/10, still forward-looking; MSFT's OpenAI copyright suit and Azure disclosure change are not clear price catalysts; AMZN's layoffs/AI-spend and Wells Fargo PT raise are already several days old). AMD (Raymond James Strong Buy reiteration, undated relative to today) and TSLA (Cybercab 'bust' reaction is now 5 days stale) checked on watchlist but no fresh trigger to initiate. Total equity $5,340.05, comfortably above the $25 floor."
   }
 ]
