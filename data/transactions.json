@@ -262,5 +262,27 @@
     "amount": 150.0,
     "cash_after": 192.5,
     "rationale": "Adding to the small AAPL position now that the actual market reaction to the 9/9 'Surprise and Shine' launch event has landed -- the exact confirmation this log said it was waiting for when it held AAPL on 9/9 ('the event's actual outcome/reaction hasn't landed yet'). Coverage today (Yahoo Finance/24/7 Wall St, dated 9/10) confirms the foldable 'iPhone Duo,' Apple Watch Ultra 4 ($799), and a new Health Sensing System were unveiled, and AAPL ticked up despite a broadly down market session (Dow -0.8%, S&P -0.5%, Nasdaq -0.6% per Yahoo/TheStreet) -- a positive, price-confirmed reaction distinct from anticipatory pre-event coverage. Sized at $150 (~2.8% of total equity), funded from the USO trim above, bringing AAPL to ~2.4% of equity, still a small position well under the 30% cap. GOOGL's recirculating 'Texas of Europe' AI-infrastructure story was checked and discounted as a likely garbled/stale rerun of the already-traded Finland deal (a conflicting -16% figure in the same result contradicted the actual ~$332 quoted price) -- held. TLT hit its lowest level since May 2004 today as the 30yr yield topped 5.30% (Benzinga, 9/10) on the same hot-PPI/deficit story already known, but the position is already small (~2.7% of equity) and this is a continuation of a known theme rather than a fresh trigger -- held rather than trimmed further. MSFT's in-house 'Maia 300' AI chip news (Forbes, dated ~9/8-9/10) is fresh but forward-looking (chip debuts 'this fall') rather than a price-confirmed move -- noted, held. NVDA, GLD, SHY, SLV all held -- no fresh distinct dated catalyst beyond already-known themes. Watchlist: AMD's strong Sept-quarter guidance (Motley Fool, 9/8 -- $13.0B revenue, +41% y/y, anchored by OpenAI/Meta/Anthropic/Oracle GPU commitments) is a genuine fresh catalyst but not initiated this cycle given the thin cash position pre-trade and to avoid overtrading within one cycle; TSLA's Cybercab/Austin firefighter safety concerns are bearish and we hold no position, so no action. Total equity $5,344.39, comfortably above the $25 floor."
+  },
+  {
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T17:10:16Z",
+    "action": "SELL",
+    "ticker": "GLD",
+    "qty": 0.2999,
+    "price": 400.09,
+    "amount": 119.99,
+    "cash_after": 312.49,
+    "rationale": "Trimming ~25% of GLD (+6.74% unrealized) on a fresh, dated, price-confirmed bearish catalyst distinct from this morning's cycle: gold opened at its lowest level in over a month today (Yahoo Finance, dated 9/11) as August CPI's in-line print pushed Fed rate-hike odds for next week to ~70% (per today's market wrap, up from an unclear/mixed level this morning) and the 2yr yield jumped ~15bps to a 2+ year high. Unlike prior cycles this week where bearish gold headlines were contradicted by a flat own-fetched price, today our own GLD fetch ($400.09) is actually down from this morning's $401.994 -- a real, price-confirmed move, not just narrative. Continues the established playbook of trimming GLD into countervailing rate-hike-odds catalysts (used 8/31, 9/1, 9/9). Proceeds fund the AMD initiation below; remaining GLD stake (~6.6% of equity) kept since the position is still profitable and gold's core safe-haven case (Iran/Hormuz tensions) hasn't reversed, only the near-term rate outlook has firmed."
+  },
+  {
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T17:10:16Z",
+    "action": "BUY",
+    "ticker": "AMD",
+    "qty": 0.2924,
+    "price": 512.925,
+    "amount": 149.98,
+    "cash_after": 162.51,
+    "rationale": "Initiating a first AMD position on a genuinely fresh, dated, single-name catalyst distinct from every prior AMD watchlist check since 9/8: Piper Sandler initiated new coverage today (9/11) with a $600 price target and Overweight rating -- a brand-new analyst call, not a reiteration of the already-discounted Citi-conference remarks or Raymond James note. This adds to an already strong-conviction fundamental picture (Q2 data-center revenue doubled to $6.72B, guidance for >35% revenue growth and EPS above $20, anchor GPU commitments from OpenAI/Meta/Anthropic/Oracle, consensus Strong Buy at $613.84 PT, +143% YTD) that this log has flagged repeatedly but never acted on. A separate headline claiming AMD fell ~3.2% intraday today is discounted per established discipline of trusting our own fetched price over conflicting narrative -- our own AMD fetch ($512.925) is flat-to-up versus this morning's $512.53, showing no confirming selloff. Sized small at $149.98 (~2.8% of total equity), well under the 30% single-position cap, funded from the GLD trim above rather than depleting the already-thin cash buffer further. Held NVDA, AAPL, GOOGL, MSFT, AMZN, SHY, TLT, USO, SLV -- all posted only continuation moves (broad CPI-relief rally, already-traded Hormuz oil premium, already-traded bond selloff) with no fresh distinct single-name catalyst this cycle. TSLA checked -- no fresh bullish trigger (SpaceX IPO competing for investor attention, no new Tesla-specific news) -- not initiated. Total equity ~$5,388, comfortably above the $25 floor."
   }
 ]
