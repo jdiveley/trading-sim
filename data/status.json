@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-12T14:08:58Z",
-  "last_run_note": "Saturday 9/12 morning cycle. Market closed for the weekend -- quotes essentially frozen at Friday's close (AMD exact match, USO/GLD/SLV sub-0.2% drift). No fresh price-confirmed catalyst found for any holding or watchlist candidate (TSLA/DBC). No trades; held all positions. Cash $162.51. Total equity $5,378.81.",
+  "last_run_at": "2026-09-12T17:08:49Z",
+  "last_run_note": "Saturday 9/12 noon cycle. Market still closed for the weekend -- every quote is an exact-to-the-cent match to this morning's cycle (zero intraday movement). No fresh price-confirmed catalyst found for any holding or watchlist candidate (TSLA/DBC); two apparent 'live' AAPL/GOOGL quotes from search were discounted as auto-generated Saturday artifacts contradicting our own frozen fetch. No trades; held all positions. Cash $162.51. Total equity $5,378.81.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-12T14:08:58Z"
+    "checked_at": "2026-09-12T17:13:29Z"
   },
   "schedule_gaps": [
     {
