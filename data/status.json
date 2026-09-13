@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-13T17:08:45Z",
-  "last_run_note": "Sunday 9/13 noon cycle. Market still closed -- every quote is an exact-to-the-cent match to this morning's cycle and all three Saturday cycles. UAE-Iran direct leader meeting and Monday's Oman/GCC shipping-framework talks are de-escalatory but still forward-looking; a general-market 'stocks rallied' search result was discounted as a likely fabricated aggregator artifact contradicting our own frozen quotes on a non-trading Sunday. No trades; held all positions. Cash $162.51. Total equity $5,378.81.",
+  "last_run_at": "2026-09-13T20:09:03Z",
+  "last_run_note": "Sunday 9/13 afternoon cycle. Market still closed -- every quote exact-to-the-cent match to all five prior cycles since Friday's close. Bloomberg: Monday's Iran/Gulf Hormuz meeting postponed per Oman -- watch item for Monday, not price-actionable today. No trades. Cash $162.51. Total equity $5,378.81.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-13T17:11:36Z"
+    "checked_at": "2026-09-13T20:12:00Z"
   },
   "schedule_gaps": [
     {
@@ -15,7 +15,7 @@
         "09:00 CDT (14:00 UTC)",
         "12:00 CDT (17:00 UTC)"
       ],
-      "detail": "Only the 15:00 CDT (20:00 UTC) cycle ran today; confirmed by git history (single 2026-07-22 commit) and single-entry data/history.json and data/research_log.json for that date. Checked the actual routine config directly (trig_01SXRXA4iA4wjwFAojHtnHEk, 'Paper Trading Simulator - Daily Cycle'): cron_expression is correctly '7 14,17,20 * * *' (UTC) and enabled=true, and it was updated to this 3-slot schedule at 2026-07-21T23:24:01Z — nearly 15 hours before the first missed slot today. So this was NOT a stale-config issue (ruling out the earlier hypothesis). last_fired_at shows only the 20:08:22Z firing; the routine API exposes no execution/run history beyond that single timestamp, so why the 14:07Z and 17:07Z firings didn't run or complete is unconfirmed from here. Check run history at https://claude.ai/code/routines/trig_01SXRXA4iA4wjwFAojHtnHEk for error details."
+      "detail": "Only the 15:00 CDT (20:00 UTC) cycle ran today; confirmed by git history (single 2026-07-22 commit) and single-entry data/history.json and data/research_log.json for that date. Checked the actual routine config directly (trig_01SXRXA4iA4wjwFAojHtnHEk, 'Paper Trading Simulator - Daily Cycle'): cron_expression is correctly '7 14,17,20 * * *' (UTC) and enabled=true, and it was updated to this 3-slot schedule at 2026-07-21T23:24:01Z \u2014 nearly 15 hours before the first missed slot today. So this was NOT a stale-config issue (ruling out the earlier hypothesis). last_fired_at shows only the 20:08:22Z firing; the routine API exposes no execution/run history beyond that single timestamp, so why the 14:07Z and 17:07Z firings didn't run or complete is unconfirmed from here. Check run history at https://claude.ai/code/routines/trig_01SXRXA4iA4wjwFAojHtnHEk for error details."
     }
   ]
 }
