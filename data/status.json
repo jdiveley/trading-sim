@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-13T20:09:03Z",
-  "last_run_note": "Sunday 9/13 afternoon cycle. Market still closed -- every quote exact-to-the-cent match to all five prior cycles since Friday's close. Bloomberg: Monday's Iran/Gulf Hormuz meeting postponed per Oman -- watch item for Monday, not price-actionable today. No trades. Cash $162.51. Total equity $5,378.81.",
+  "last_run_at": "2026-09-14T14:15:19Z",
+  "last_run_note": "Monday 9/14 morning cycle. Market open, quotes moved for real. 1 trade: added $100 to USO on Saudi East-West pipeline shutdown (Hormuz bypass route) supply-disruption catalyst. Held NVDA/AMD through an AI-slowdown sentiment selloff (no stop-loss reaction). Cash $62.51. Total equity $5,363.39.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-13T20:12:00Z"
+    "checked_at": "2026-09-14T14:22:00Z"
   },
   "schedule_gaps": [
     {
