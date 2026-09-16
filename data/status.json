@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-16T14:10:24Z",
-  "last_run_note": "Wednesday 9/16 morning cycle. No trades; held all positions. FOMC decision lands later today (2pm ET) -- deliberately not pre-trading on already-priced-in hike odds since Tuesday's GLD trim/USO add already expressed that view. No fresh single-name catalysts on any holding or watchlist candidate (TSLA/BND/DBC). Cash $62.51. Total equity $5,375.69.",
+  "last_run_at": "2026-09-16T17:08:13Z",
+  "last_run_note": "Wednesday 9/16 noon cycle. 1 trade: trimmed ~29% of USO ($149.99) on a surprise API crude-inventory-build catalyst (WTI toward $100/bbl). Held all other positions; deliberately not pre-trading FOMC decision itself (lands 2pm ET, already expressed via prior GLD/USO trades). Cash $212.50. Total equity $5,364.91.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-16T14:12:00Z"
+    "checked_at": "2026-09-16T17:10:00Z"
   },
   "schedule_gaps": [
     {
