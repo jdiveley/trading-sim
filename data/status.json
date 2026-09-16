@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-16T17:08:13Z",
-  "last_run_note": "Wednesday 9/16 noon cycle. 1 trade: trimmed ~29% of USO ($149.99) on a surprise API crude-inventory-build catalyst (WTI toward $100/bbl). Held all other positions; deliberately not pre-trading FOMC decision itself (lands 2pm ET, already expressed via prior GLD/USO trades). Cash $212.50. Total equity $5,364.91.",
+  "last_run_at": "2026-09-16T20:09:22Z",
+  "last_run_note": "Wednesday 9/16 afternoon cycle, post-FOMC. No trades -- HOLD. Fed hiked 25bp to 3.75-4.00% with a hawkish dot plot (one more hike signaled this year), but the reaction was muted (Dow -1.2%, Nasdaq roughly flat) and already priced in via this week's GLD/USO trades; own fetched TLT/GLD/USO prices didn't confirm a fresh actionable move. Cash $212.50. Total equity $5,331.54.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-16T17:10:00Z"
+    "checked_at": "2026-09-16T20:11:00Z"
   },
   "schedule_gaps": [
     {
