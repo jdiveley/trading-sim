@@ -2634,5 +2634,24 @@
       "Watchlist -- BND, DBC: checked, no fresh dated catalyst distinct from the broad bond/commodity themes already covered via SHY/TLT/GLD/USO/SLV exposure; not initiated.",
       "Total equity $5,331.54 (cash $212.50 + holdings $5,119.04), down modestly from this morning's $5,375.69 peak but still comfortably above the $25.00 floor and up from Monday's close. This is the third cycle today (one trade already executed this morning on USO); running three times a day does not mean trading three times a day, and the FOMC decision landing largely as already-priced-in is not, by itself, a fresh catalyst to re-trade the same GLD/bond exposure a third or fourth time this week."
     ]
+  },
+  {
+    "date": "2026-09-17",
+    "market_summary": "S&P 500 up 0.59% to 7,596 (VIX +2.97%) as markets continue digesting the Fed's hawkish post-hike tone, but the 10yr Treasury yield fell 3bp to 4.99% -- its first pullback since the hike, per Bloomberg's 'Global Bonds Recover as Warsh's Inflation Fight Calms Market' (9/17) -- while gold broke above $4,300/oz to a fresh high (Goldman raised its Dec-2026 target to $4,900, UBS to $4,200). Oil signals were conflicting: one source cited redirected Saudi shipments easing supply concerns and WTI falling toward $101, another cited fresh US sanctions on Russian oil producers pushing crude up 3.3% toward $156 -- treated as unresolved and not traded on.",
+    "notes": [
+      "AAPL: BOUGHT $99.99 (0.3007 sh @ $332.54). Two genuinely fresh, dated (9/17) catalysts distinct from prior cycles' recycled JPMorgan iPhone-18 note: a BofA upgrade to Buy with a raised price target, and new reporting on an enterprise AI server in development. Own fetched price ($332.54) confirms the move, up from yesterday's $332.41 and above the $319.44 avg cost. Was underweight at 5.4% of equity pre-trade; now ~7.3%, well under the 30% cap.",
+      "NVDA: new Google/Emerald AI data-center partnership announced 9/16 (stock +1.5% per reports) and a reported $279B memory budget through 2032 -- a genuinely new, distinct catalyst, but NVDA is already a meaningful position (15.9% of equity pre-trade) built up over prior cycles, so held rather than added; own fetched price $218.81, up modestly from recent range, consistent with the reported move.",
+      "GLD: fresh $4,300/oz high with raised Goldman ($4,900) and UBS ($4,200) targets -- bullish continuation of an already-held, already up ~6.9% unrealized position. A bullish continuation isn't a trim trigger (no countervailing catalyst) and we're not chasing an already-large unrealized gain with a fresh add; held.",
+      "USO: conflicting fresh headlines today (Saudi-shipment easing vs. Russia-sanctions rally) with no way to reconcile against a single confirmed direction from our own fetch; left untouched pending clearer data next cycle.",
+      "SHY, TLT, BND: no fresh dated catalyst found for any (SHY/TLT explicitly flagged as no recent news; BND generic Fed-dependent commentary only). The broader yield pullback is index-level, not ticker-specific news -- held all three, BND not initiated.",
+      "MSFT: dividend-increase coverage is a recycled story already covered 9/16; no new trigger. Held.",
+      "GOOGL: new Gemini voice-agent models, $15B European AI infrastructure investment, and a $22B chip-financing deal for the Crux AI cloud venture -- interesting detail but not a clean single-day directional trigger on top of an already large position (17.9% of equity); held.",
+      "AMZN: new 'Project Merc' same-day delivery expansion and a Generac data-center supply deal -- operational stories, not clear demand/earnings catalysts; held, consistent with prior discipline against trading on non-directional operational news.",
+      "AMD: Wedbush PT raise to $600 came bundled with a data-quality red flag (a mismatched/older headline referencing a pre-earnings drop); not actioned given the unreliable sourcing.",
+      "SLV: no fresh breaking news, price data stale; held.",
+      "Watchlist -- TSLA: still the same stale earnings-miss/Deutsche Bank PT cut narrative from 9/15; no fresh trigger, not initiated.",
+      "Watchlist -- DBC: fresh 52-week high but attributed to the same already-covered Hormuz disruption story (9/15-16); stale narrative despite new price action, not initiated.",
+      "Total equity $5,388.66 (cash $112.51 + holdings $5,276.15), up from yesterday's $5,331.54 close and the highest mark to date, comfortably above the $25.00 floor. One trade this cycle (AAPL); all other tickers held on stale, conflicting, or already-priced-in signals."
+    ]
   }
 ]
