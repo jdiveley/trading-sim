@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-18T17:09:28Z",
-  "last_run_note": "Friday 9/18 midday (12pm CDT) cycle. No trades; held all 11 positions -- cash too thin ($12.51) to add without an unrelated sell, and nothing today (GOOGL antitrust relief, AAPL Evercore PT raise, AMZN FTC inquiry, gold/silver fresh highs) rose to a clean trigger worth trimming a winner to fund. Cash $12.51. Total equity $5,413.23.",
+  "last_run_at": "2026-09-18T20:09:38Z",
+  "last_run_note": "Friday 9/18 close (3pm CDT) cycle. No trades; held all 11 positions -- cash still too thin ($12.51) to add without an unrelated sell, and no holding had a fresh bearish catalyst to justify one. TSLA's fresh Musk $1B insider buy noted as a watchlist candidate once cash frees up. Cash $12.51. Total equity $5,427.35.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-18T17:12:00Z"
+    "checked_at": "2026-09-18T20:20:00Z"
   },
   "schedule_gaps": [
     {
