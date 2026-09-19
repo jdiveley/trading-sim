@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-19T14:09:34Z",
-  "last_run_note": "Saturday 9/19 morning (9am CDT) cycle. No trades; held all 11 positions -- every catalyst found was a repeat already used for a prior trade or too minor/long-horizon to act on, and cash remains too thin ($12.51) to add without an unrelated sell. Cash $12.51. Total equity $5,427.27.",
+  "last_run_at": "2026-09-19T20:09:37Z",
+  "last_run_note": "Saturday 9/19 close-approach (3pm CDT) cycle. No trades; held all 11 positions -- weekend prices frozen at Friday's close (identical total_equity to this morning), and a dedicated news check found no genuinely new catalyst beyond already-used stale themes. Cash $12.51. Total equity $5,427.27.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-19T14:20:00Z"
+    "checked_at": "2026-09-19T20:12:50Z"
   },
   "schedule_gaps": [
     {
