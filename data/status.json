@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-20T17:08:48Z",
-  "last_run_note": "Sunday 9/20 midday (12pm CDT) cycle. No trades; held all 11 positions -- weekend prices still frozen at Friday close, cash exhausted at $12.51. Noted a new Hormuz shipping-normalization story (bearish for USO) as a watch item for Monday's open, not yet price-confirmable. Total equity $5,427.27.",
+  "last_run_at": "2026-09-20T20:08:43Z",
+  "last_run_note": "Sunday 9/20 afternoon (3pm CDT) cycle, third of the day. No trades; held all 11 positions -- weekend prices still frozen at Friday close, cash exhausted at $12.51. Hormuz/oil headlines were contradictory this cycle (a 'strait effectively closed' claim vs. Friday's 'normalization' story); deferring to Monday's actual price action. Total equity $5,427.27.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-20T17:08:48Z"
+    "checked_at": "2026-09-20T20:08:43Z"
   },
   "schedule_gaps": [
     {
