@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-18T20:09:38Z",
-  "last_run_note": "Friday 9/18 close (3pm CDT) cycle. No trades; held all 11 positions -- cash still too thin ($12.51) to add without an unrelated sell, and no holding had a fresh bearish catalyst to justify one. TSLA's fresh Musk $1B insider buy noted as a watchlist candidate once cash frees up. Cash $12.51. Total equity $5,427.35.",
+  "last_run_at": "2026-09-24T14:12:00Z",
+  "last_run_note": "Thursday 9/24 morning cycle. Discovered and reconciled a 5-day git data gap (see schedule_gaps below) before trading. 2 trades executed against the corrected baseline: trimmed ~18% of MSFT (+22.36% unrealized) into a sharp bond-yield-driven tech selloff (10yr Treasury at 5.12%, highest since 2007), and added $100 to USO on a fresh Iran-escalation oil catalyst (Brent +3.9%), rebuilding the position cut on 9/21. Cash $113.62. Total equity $5,375.03.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-18T20:20:00Z"
+    "checked_at": "2026-09-24T14:32:00Z"
   },
   "schedule_gaps": [
     {
@@ -16,6 +16,11 @@
         "12:00 CDT (17:00 UTC)"
       ],
       "detail": "Only the 15:00 CDT (20:00 UTC) cycle ran today; confirmed by git history (single 2026-07-22 commit) and single-entry data/history.json and data/research_log.json for that date. Checked the actual routine config directly (trig_01SXRXA4iA4wjwFAojHtnHEk, 'Paper Trading Simulator - Daily Cycle'): cron_expression is correctly '7 14,17,20 * * *' (UTC) and enabled=true, and it was updated to this 3-slot schedule at 2026-07-21T23:24:01Z \u2014 nearly 15 hours before the first missed slot today. So this was NOT a stale-config issue (ruling out the earlier hypothesis). last_fired_at shows only the 20:08:22Z firing; the routine API exposes no execution/run history beyond that single timestamp, so why the 14:07Z and 17:07Z firings didn't run or complete is unconfirmed from here. Check run history at https://claude.ai/code/routines/trig_01SXRXA4iA4wjwFAojHtnHEk for error details."
+    },
+    {
+      "date": "2026-09-19 to 2026-09-23",
+      "missed_cycles": ["git commits/pushes for all cycles in this window -- the cycles themselves ran"],
+      "detail": "GIT DATA LOSS, NOT A MISSED-CYCLE GAP: this 9/24 run found that the live dashboard artifact (published at https://claude.ai/code/artifact/be815ca0-0271-47ea-86d3-3e482f34e91c) reflected trading activity through 2026-09-23T20:07:50Z -- including 4 real trades on 9/21 (USO trim, AMD trim, MSFT add) and 9/22 (META initiation) -- that were completely absent from the git repository, whose data/*.json files were still frozen at the 9/18 20:09:38Z state. This means prior runs across 9/19-9/23 (roughly 15 cycles) DID execute, research, and successfully publish the dashboard, but their 'git add / commit / push' step (Step 10) silently failed or was skipped every single time in that window, and since each run's container is ephemeral, that uncommitted work would have been lost forever if the live dashboard hadn't independently retained it. This 9/24 run recovered the missing 4 transactions and 15 history/research-log entries by parsing the live dashboard's embedded JSON (read via the Artifact tool's publish-conflict safeguard, which refused this run's first publish attempt because it had a newer, unseen version) and cross-checked the recovered transaction chain against the recovered ledger snapshot -- it reconciles exactly (cash and quantities match to the cent/4-decimal). The merged data is now committed. RECOMMENDATION: investigate why `git push` (or the commit step before it) was failing for every cycle in this window -- e.g. check for auth/credential expiry, a branch-protection or conflict issue, or a change in the execution environment around 9/18-9/19 -- since this failure mode is silent from the dashboard's perspective (STATUS.dashboard_publish showed 'ok' throughout) and would not have been caught without this reconciliation. Consider adding a git-push-verification step (e.g. checking `git log` post-push, or comparing local HEAD to `git ls-remote`) to the run procedure so a future silent failure surfaces immediately rather than accumulating for days."
     }
   ]
 }

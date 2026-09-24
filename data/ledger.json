@@ -1,6 +1,6 @@
 {
-  "cash": 12.51,
-  "as_of": "2026-09-18T14:12:49Z",
+  "cash": 113.62,
+  "as_of": "2026-09-24T14:12:00Z",
   "holdings": [
     {
       "ticker": "NVDA",
@@ -29,8 +29,8 @@
     },
     {
       "ticker": "MSFT",
-      "qty": 1.5363,
-      "avg_cost": 390.54
+      "qty": 1.4338,
+      "avg_cost": 402.6746
     },
     {
       "ticker": "AMZN",
@@ -44,8 +44,8 @@
     },
     {
       "ticker": "USO",
-      "qty": 2.3765,
-      "avg_cost": 147.1677
+      "qty": 1.6111,
+      "avg_cost": 148.8987
     },
     {
       "ticker": "SLV",
@@ -54,8 +54,13 @@
     },
     {
       "ticker": "AMD",
-      "qty": 0.2924,
+      "qty": 0.1462,
       "avg_cost": 512.925
+    },
+    {
+      "ticker": "META",
+      "qty": 0.2012,
+      "avg_cost": 745.47
     }
   ]
 }

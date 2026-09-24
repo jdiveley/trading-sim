@@ -1060,5 +1060,101 @@
     "cash": 12.51,
     "holdings_value": 5414.84,
     "total_equity": 5427.35
+  },
+  {
+    "date": "2026-09-19T14:09:34Z",
+    "cash": 12.51,
+    "holdings_value": 5414.76,
+    "total_equity": 5427.27
+  },
+  {
+    "date": "2026-09-19T17:08:18Z",
+    "cash": 12.51,
+    "holdings_value": 5414.76,
+    "total_equity": 5427.27
+  },
+  {
+    "date": "2026-09-19T20:09:37Z",
+    "cash": 12.51,
+    "holdings_value": 5414.76,
+    "total_equity": 5427.27
+  },
+  {
+    "date": "2026-09-20T14:08:10Z",
+    "cash": 12.51,
+    "holdings_value": 5414.76,
+    "total_equity": 5427.27
+  },
+  {
+    "date": "2026-09-20T17:08:48Z",
+    "cash": 12.51,
+    "holdings_value": 5414.76,
+    "total_equity": 5427.27
+  },
+  {
+    "date": "2026-09-20T20:08:43Z",
+    "cash": 12.51,
+    "holdings_value": 5414.76,
+    "total_equity": 5427.27
+  },
+  {
+    "date": "2026-09-21T14:15:19Z",
+    "cash": 213.57,
+    "holdings_value": 5244.39,
+    "total_equity": 5457.96
+  },
+  {
+    "date": "2026-09-21T17:11:11Z",
+    "cash": 213.57,
+    "holdings_value": 5265.79,
+    "total_equity": 5479.36
+  },
+  {
+    "date": "2026-09-21T20:08:37Z",
+    "cash": 213.57,
+    "holdings_value": 5279.65,
+    "total_equity": 5493.22
+  },
+  {
+    "date": "2026-09-22T14:10:25Z",
+    "cash": 63.58,
+    "holdings_value": 5435.42,
+    "total_equity": 5499.0
+  },
+  {
+    "date": "2026-09-22T17:09:50Z",
+    "cash": 63.58,
+    "holdings_value": 5410.3,
+    "total_equity": 5473.88
+  },
+  {
+    "date": "2026-09-22T20:09:18Z",
+    "cash": 63.58,
+    "holdings_value": 5408.81,
+    "total_equity": 5472.39
+  },
+  {
+    "date": "2026-09-23T14:10:58Z",
+    "cash": 63.58,
+    "holdings_value": 5358.39,
+    "total_equity": 5421.97
+  },
+  {
+    "date": "2026-09-23T17:09:37Z",
+    "cash": 63.58,
+    "holdings_value": 5326.57,
+    "total_equity": 5390.15
+  },
+  {
+    "date": "2026-09-23T20:07:50Z",
+    "cash": 63.58,
+    "holdings_value": 5335.83,
+    "total_equity": 5399.41
+  },
+  {
+    "date": "2026-09-24T14:12:00Z",
+    "cash": 113.62,
+    "holdings_value": 5261.41,
+    "total_equity": 5375.03
   }
 ]
