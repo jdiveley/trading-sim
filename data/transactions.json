@@ -416,5 +416,16 @@
     "amount": 99.99,
     "cash_after": 113.62,
     "rationale": "Adding to oil on a fresh, dated escalation-risk catalyst distinct from every prior USO trade this month: Brent crude rose 3.9% Wednesday (9/23) to $103.08, snapping a five-day losing streak, after Iranian President Masoud Pezeshkian vowed Iran will not surrender to US pressure -- a real reversal of the diplomatic-thaw-driven oil weakness that had prompted the 60% USO trim on 9/21 (CNBC, 9/23). Confirmed by our own fetched USO price ($151.39), up 2.87% above the $147.17 average cost basis on the pre-existing shares and consistent with the reported crude rally. Sized at $100 (~1.9% of total equity), funded from the MSFT trim above, bringing USO back to ~4.5% of equity (from the heavily-trimmed 2.7%), still well under the 30% single-position cap. NVDA was checked given today's US-China summit (Xi Jinping landing in the US, per Yahoo Finance 9/24) and speculation about eased data-center chip export rules to China, but the outcome hasn't landed yet -- held, watchlist for next cycle once the summit's actual result is known. GOOGL's fresh -3.58% single-day decline reads as broad tech/bond-yield-driven weakness (Nasdaq -0.8% today) rather than a distinct company-specific catalyst, and GOOGL is already the largest position (19.4% of equity) -- held. AAPL (mixed iPhone 18 demand signals), AMZN (-8.07% unrealized; Ackman's Pershing Square revealed a new stake, a genuine bullish catalyst, but not actioned this cycle to keep to two high-conviction trades -- flagged for next cycle), AMD (small ~1.7% position after the 9/21 trim; paused after its $1T market-cap milestone with 'rich valuation' commentary but no fresh distinct trigger either way), META (~2.9% position from 9/22, roughly flat today, no fresh catalyst), GLD/SLV (both roughly flat on our own fetches), and TLT/SHY (continuation of the same bond-selloff story already acted on via the MSFT trim) were all held. Total equity ~$5,375, comfortably above the $25 floor."
+  },
+  {
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T14:13:31Z",
+    "action": "SELL",
+    "ticker": "USO",
+    "qty": 0.6634,
+    "price": 150.73,
+    "amount": 99.99,
+    "cash_after": 213.61,
+    "rationale": "Trimming ~41% of USO (4.48% of equity, only marginally profitable at +1.23%) on a genuine confirmation of the Hormuz diplomatic-thaw catalyst that was explicitly flagged as 'unconfirmed' at the end of yesterday's cycle: CNBC (9/24) and Fortune/SundayGuardian (9/25) report the US and Iran are discussing a phased deal, mediated by Qatar at the UN General Assembly, to reopen the Strait of Hormuz and lift the US naval blockade on Iranian ports, sending Brent down 1.4% to $105.11 and WTI down 2.1% to $92.61 today. Unlike yesterday afternoon -- when this same talk-of-a-deal story didn't move our own USO fetch -- today's own fetch ($150.73) is confirmed down from yesterday's $153.08 close, a ~1.5% decline consistent with the reported crude pullback. This is the same playbook used repeatedly on USO this month (trim into a price-confirmed countervailing catalyst rather than exit outright): keeping a residual ~2.6% stake since the Mideast risk premium (Houthi missile attacks on Saudi cities also reported today) hasn't fully resolved."
   }
 ]

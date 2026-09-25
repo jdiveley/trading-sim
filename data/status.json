@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-24T20:11:43Z",
-  "last_run_note": "Thursday 9/24 afternoon cycle (final of the day). No trades; held all 12 positions. Oracle's Project Jupiter force-majeure notice and early US-Iran Hormuz-reopening talks were the only genuinely new headlines, but neither cleared the bar for a portfolio trade (no direct read-through, and USO's own price didn't confirm a reversal). Cash $113.62. Total equity $5,412.96, a new local high.",
+  "last_run_at": "2026-09-25T14:13:31Z",
+  "last_run_note": "Friday 9/25 morning cycle. 1 trade: trimmed USO ~41% ($99.99) on the now price-confirmed Hormuz-reopening-talks pullback in oil (WTI -2.1%, Brent -1.4%). Held all other 11 positions -- no other fresh catalyst cleared the bar. Cash $213.61. Total equity $5,422.08, a new local high.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-24T20:16:00Z"
+    "checked_at": "2026-09-25T14:20:00Z"
   },
   "schedule_gaps": [
     {
