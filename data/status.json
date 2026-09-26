@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-26T14:10:28Z",
-  "last_run_note": "Saturday cycle. HOLD -- market closed for the weekend, own quote fetches matched Friday 9/25's closing prices (total equity $5,443.97, a one-cent rounding match to Friday's $5,443.98), so no fresh catalyst was price-confirmable. No trades. Cash $113.63.",
+  "last_run_at": "2026-09-26T17:08:13Z",
+  "last_run_note": "Saturday midday cycle. HOLD -- market still closed, own quote fetches identical to this morning's (total equity $5,443.97 unchanged). US-Iran Hormuz talks continuing but no price-confirmable move possible. No trades. Cash $113.63.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-26T14:16:20Z"
+    "checked_at": "2026-09-26T17:12:00Z"
   },
   "schedule_gaps": [
     {
