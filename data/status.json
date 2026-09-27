@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-27T14:09:58Z",
-  "last_run_note": "Sunday morning cycle. HOLD -- market closed, own quote fetches identical to all of Saturday's cycles (total equity $5,443.97 unchanged). US-Iran situation escalated (Iran awaiting formal US answer after Trump rejection; Iran army says US may attack) but no price-confirmable move possible on a closed market -- flagged for Monday's open. No trades. Cash $113.63.",
+  "last_run_at": "2026-09-27T17:08:46Z",
+  "last_run_note": "Sunday midday cycle. HOLD -- market closed, own quote fetches byte-for-byte identical to this morning's and all of Saturday's cycles (total equity $5,443.97 unchanged). Trump rejected Iran's 7-day Hormuz reopening proposal but also expects more US-Iran talks this week (still unresolved, not price-confirmable on a closed market) -- carries into Monday's open. No trades. Cash $113.63.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-27T14:12:28Z"
+    "checked_at": "2026-09-27T17:10:30Z"
   },
   "schedule_gaps": [
     {
