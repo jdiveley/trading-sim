@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-27T17:08:46Z",
-  "last_run_note": "Sunday midday cycle. HOLD -- market closed, own quote fetches byte-for-byte identical to this morning's and all of Saturday's cycles (total equity $5,443.97 unchanged). Trump rejected Iran's 7-day Hormuz reopening proposal but also expects more US-Iran talks this week (still unresolved, not price-confirmable on a closed market) -- carries into Monday's open. No trades. Cash $113.63.",
+  "last_run_at": "2026-09-27T20:08:59Z",
+  "last_run_note": "Sunday afternoon cycle (final cycle of the day). HOLD -- market closed, own quote fetches byte-for-byte identical to all prior cycles since Friday's close (total equity $5,443.97 unchanged). Fresh Hormuz escalation since midday (Al Jazeera/NPR/CBS: explosions near Qeshm Island, Iran claims it seized a US submarine drone, Iran-US talks moving further apart after Trump's rejection of the 7-day reopening plan) but not price-confirmable on a closed market -- flagged for Monday's open. No trades. Cash $113.63.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-27T17:10:30Z"
+    "checked_at": "2026-09-27T20:09:59Z"
   },
   "schedule_gaps": [
     {
