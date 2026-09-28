@@ -438,5 +438,27 @@
     "amount": 99.98,
     "cash_after": 113.63,
     "rationale": "Adding to MSFT (13.6% of equity, room under the 30% cap) on a fresh, dated, single-name catalyst distinct from every prior MSFT trade this month: Microsoft unveiled a major Copilot redesign today (Benzinga, 9/25) adding Home (merging Chat/Cowork plus Word/Excel/PowerPoint integration), Code (natural-language app/dashboard building), and an expanding Autopilot feature, rolling out via the Frontier program in the coming weeks. Own fetched price ($516.94) confirms the reaction -- shares opened up 3.21% and traded as high as $519.10 today, a genuine move distinct from Wednesday's bond-yield-driven -1.22% dip that prompted the 9/24 trim (10yr Treasury yields have since climbed even further, to a fresh 5.2%+ two-decade high per CNBC/TradingEconomics 9/25, making today's rally a real company-specific catalyst overriding the macro headwind, not a continuation of it). Sized at $100 (~1.8% of total equity of $5,442.14), funded from cash, bringing MSFT to ~15.5% of equity, still well under the single-position cap. Analyst consensus remains Buy with a $567.04 average target, above today's price."
+  },
+  {
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T14:19:13Z",
+    "action": "BUY",
+    "ticker": "USO",
+    "qty": 0.4303,
+    "price": 151.06,
+    "amount": 65.0,
+    "cash_after": 48.63,
+    "rationale": "Adding back to USO (was heavily trimmed to just 2.6% of equity on 9/21 and 9/25 as the Hormuz diplomatic-thaw narrative de-risked oil) on a genuine reversal, price-confirmed today: Trump rejected Iran's 7-day Strait of Hormuz reopening proposal (Al Jazeera, The National, Bloomberg, all 9/28), sending Brent up ~2.6% to $107/bbl and WTI above $94, with our own USO fetch ($151.06) up from Friday's $148.33 close. This is the same escalation this log flagged Sunday (explosions near Qeshm Island, Iran's claimed seizure of a US drone) now confirmed by a live market reaction, following the established playbook of trading this thesis both ways as it swings. Sized at $65 given limited cash on hand ($113.63 total), bringing USO to ~3.6% of equity, well under the 30% cap."
+  },
+  {
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T14:19:13Z",
+    "action": "BUY",
+    "ticker": "NVDA",
+    "qty": 0.1946,
+    "price": 231.26,
+    "amount": 45.0,
+    "cash_after": 3.63,
+    "rationale": "Adding to NVDA (16.7% of equity, room under the 30% cap) on a fresh, dated, company-specific catalyst distinct from prior generic bullish sentiment: NVIDIA announced a $150B increase to its share buyback authorization today (9/28), the largest single repurchase authorization increase ever recorded by a public company, surpassing Apple's 2024 record, alongside the launch of its Open Agent Safety Platform. Own fetched price ($231.26) confirms the reaction, up ~2.7% versus Friday's $225.07 close even as the broader market fell (Dow -0.7%, S&P -0.5%, Nasdaq -0.5%) on the Iran/yields selloff -- consistent with reporting that NVDA and AAPL's relative strength was propping up the index today. Sized at $45 given limited remaining cash after the USO add, bringing NVDA to ~17.1% of equity."
   }
 ]
