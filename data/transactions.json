@@ -471,5 +471,16 @@
     "amount": 70.46,
     "cash_after": 74.09,
     "rationale": "Trimming 50% of TLT (was 2.6% of equity, -6.1% unrealized since the $82.945 avg cost) on a fresh, dated, TLT-specific catalyst distinct from the generic yield-backdrop mentions used for prior MSFT trims: the 10yr Treasury yield hit ~5.11-5.23% Monday 9/28, the highest since 2007, on strong Composite PMI data (58.4) and sticky-inflation Fed-hike odds now ~70% for an October 25bp hike (CNBC, GuruFocus, 9/28), and GuruFocus reported TLT itself hit a fresh record low the same day. Own fetch confirms the decline: TLT $77.928 today vs $79.32 as of Friday's close/the weekend no-op cycles, a real ~1.75% drop consistent with the reported selloff continuing into today. Also addresses a genuine risk-management gap: cash had fallen to just $3.63 (effectively zero buffer, well below what the policy calls for), so this trim both de-risks the position most directly exposed to further rate hikes and rebuilds the cash buffer to $74.09. Kept the remaining ~1.3%-of-equity TLT stake plus the larger SHY (short-duration, less rate-sensitive) position for continued bond-asset-class exposure per the diversification guideline."
+  },
+  {
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T17:10:39Z",
+    "action": "BUY",
+    "ticker": "AMD",
+    "qty": 0.0654,
+    "price": 611.375,
+    "amount": 39.98,
+    "cash_after": 34.11,
+    "rationale": "Adding to AMD (was just 1.66% of equity after the 9/21 trim) on a fresh, dated, company-specific catalyst that this morning's cycle had flagged as 'undated/likely stale' and passed on: AMD announced it will acquire Fei-Fei Li's physical-AI startup World Labs for $8.2B in an all-stock deal (TechCrunch, Bloomberg, CNBC, AMD Newsroom, all confirming 9/28), AMD's second-largest acquisition ever behind only the ~$50B Xilinx deal, bringing Li on as EVP/Chief Scientist to shape AMD's chip roadmap around frontier physical-AI workloads. This is now confirmed as a real, still-current catalyst (still leading AMD coverage into 9/29, not a one-day-stale item), distinct from every prior AMD trade this month (which cited chip-sector beta or AI-safety-driven pullbacks, never an AMD-specific M&A move). Own fetched price ($611.375) is up from Monday's ~$604.89-611 range despite broader market weakness today (S&P -0.8%), consistent with reported strength in AMD on this news. Sized modestly ($39.98, ~0.7% of equity) given limited cash on hand after this morning's TLT-trim rebuilt the buffer to just $74.09 -- kept roughly half the cash in reserve rather than redeploying it all again in the same day."
   }
 ]

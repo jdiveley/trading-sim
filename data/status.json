@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-29T15:31:37Z",
-  "last_run_note": "Tuesday first cycle. 1 trade: trimmed 50% of TLT ($70.46) on a fresh TLT-specific record-low catalyst (10yr yield at an 18-year high) and to rebuild the cash buffer, which had fallen to $3.63. Cash now $74.09. Total equity $5,388.29, comfortably above the $25 floor.",
+  "last_run_at": "2026-09-29T17:10:39Z",
+  "last_run_note": "Tuesday midday cycle. 1 trade: added to AMD (+0.0654 sh, $39.98) on a confirmed, fresh, AMD-specific catalyst -- the $8.2B all-stock acquisition of Fei-Fei Li's World Labs, announced 9/28 and still current into 9/29. Cash now $34.11. Total equity $5,383.74, comfortably above the $25 floor.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-29T15:35:00Z"
+    "checked_at": "2026-09-29T17:16:00Z"
   },
   "schedule_gaps": [
     {
