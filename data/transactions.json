@@ -460,5 +460,16 @@
     "amount": 45.0,
     "cash_after": 3.63,
     "rationale": "Adding to NVDA (16.7% of equity, room under the 30% cap) on a fresh, dated, company-specific catalyst distinct from prior generic bullish sentiment: NVIDIA announced a $150B increase to its share buyback authorization today (9/28), the largest single repurchase authorization increase ever recorded by a public company, surpassing Apple's 2024 record, alongside the launch of its Open Agent Safety Platform. Own fetched price ($231.26) confirms the reaction, up ~2.7% versus Friday's $225.07 close even as the broader market fell (Dow -0.7%, S&P -0.5%, Nasdaq -0.5%) on the Iran/yields selloff -- consistent with reporting that NVDA and AAPL's relative strength was propping up the index today. Sized at $45 given limited remaining cash after the USO add, bringing NVDA to ~17.1% of equity."
+  },
+  {
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T15:31:37Z",
+    "action": "SELL",
+    "ticker": "TLT",
+    "qty": 0.9042,
+    "price": 77.928,
+    "amount": 70.46,
+    "cash_after": 74.09,
+    "rationale": "Trimming 50% of TLT (was 2.6% of equity, -6.1% unrealized since the $82.945 avg cost) on a fresh, dated, TLT-specific catalyst distinct from the generic yield-backdrop mentions used for prior MSFT trims: the 10yr Treasury yield hit ~5.11-5.23% Monday 9/28, the highest since 2007, on strong Composite PMI data (58.4) and sticky-inflation Fed-hike odds now ~70% for an October 25bp hike (CNBC, GuruFocus, 9/28), and GuruFocus reported TLT itself hit a fresh record low the same day. Own fetch confirms the decline: TLT $77.928 today vs $79.32 as of Friday's close/the weekend no-op cycles, a real ~1.75% drop consistent with the reported selloff continuing into today. Also addresses a genuine risk-management gap: cash had fallen to just $3.63 (effectively zero buffer, well below what the policy calls for), so this trim both de-risks the position most directly exposed to further rate hikes and rebuilds the cash buffer to $74.09. Kept the remaining ~1.3%-of-equity TLT stake plus the larger SHY (short-duration, less rate-sensitive) position for continued bond-asset-class exposure per the diversification guideline."
   }
 ]
