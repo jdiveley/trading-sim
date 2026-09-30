@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-09-30T14:10:23Z",
-  "last_run_note": "Wednesday morning cycle. HOLD -- no trades. Cooler-than-expected core PCE data eased yields/Fed-hike odds today (bond-friendly), but the move is a modest 1-day bounce, not a confirmed reversal, so no re-buy after yesterday's TLT trim; every single-name lead (NVDA buyback, AMD $1T milestone, META Enterprise Platform) was a follow-on of an already-traded catalyst, and an AMZN AWS-drone-strike story fact-checked to March 2026 (stale). Total equity $5,469.60, up from $5,312.53, comfortably above the $25 floor.",
+  "last_run_at": "2026-09-30T17:10:32Z",
+  "last_run_note": "Wednesday afternoon cycle. HOLD -- no trades. NVDA ($105B Ohio data-center guarantee + Open Agent Safety Platform) and GOOGL (Cloud backlog/revenue beat, +3%) both had genuine new dated catalysts today, but both are already sizeable positions (17.3%/19.8% of equity) and cash on hand is just $34.11 -- too thin to add meaningfully without an unjustified trim elsewhere; nothing else had a clean single-name sell trigger (AAPL's new news was mixed, BofA still rates it Buy). Total equity $5,466.06, essentially flat vs this morning's $5,469.60, comfortably above the $25 floor.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-09-30T14:15:00Z"
+    "checked_at": "2026-09-30T17:13:39Z"
   },
   "schedule_gaps": [
     {
