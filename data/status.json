@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-02T17:09:37Z",
-  "last_run_note": "Friday midday cycle (2nd of the day). No trades; HOLD across the board. Today's moves (NVDA record high, AMD chip rally, partial TLT pullback as yields ticked back up to 5.27%) were all continuations of catalysts already traded this morning, not fresh triggers, and cash remains very thin ($30.29). Total equity $5,443.34 (cash $30.29 + holdings $5,413.05), roughly flat vs this morning's $5,471.72, comfortably above the $25 floor.",
+  "last_run_at": "2026-10-02T20:10:46Z",
+  "last_run_note": "Friday close cycle (3rd/final of the day). No trades; HOLD across the board. Weak September jobs report (29K vs ~85-95K expected) was today's dominant fresh catalyst but it's the same one already traded on this morning (NVDA/TLT adds, USO exit); Treasury yields reportedly fell but our own TLT fetch ($77.48) stayed flat-to-down, and nothing else cleared the bar for a fresh single-name trigger with cash this thin ($30.29). Total equity $5,444.28 (cash $30.29 + holdings $5,413.99), flat vs this morning's $5,471.72 and midday's $5,443.34, comfortably above the $25 floor.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-02T17:13:07Z"
+    "checked_at": "2026-10-02T20:18:36Z"
   },
   "schedule_gaps": [
     {
