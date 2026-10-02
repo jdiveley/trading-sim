@@ -482,5 +482,38 @@
     "amount": 39.98,
     "cash_after": 34.11,
     "rationale": "Adding to AMD (was just 1.66% of equity after the 9/21 trim) on a fresh, dated, company-specific catalyst that this morning's cycle had flagged as 'undated/likely stale' and passed on: AMD announced it will acquire Fei-Fei Li's physical-AI startup World Labs for $8.2B in an all-stock deal (TechCrunch, Bloomberg, CNBC, AMD Newsroom, all confirming 9/28), AMD's second-largest acquisition ever behind only the ~$50B Xilinx deal, bringing Li on as EVP/Chief Scientist to shape AMD's chip roadmap around frontier physical-AI workloads. This is now confirmed as a real, still-current catalyst (still leading AMD coverage into 9/29, not a one-day-stale item), distinct from every prior AMD trade this month (which cited chip-sector beta or AI-safety-driven pullbacks, never an AMD-specific M&A move). Own fetched price ($611.375) is up from Monday's ~$604.89-611 range despite broader market weakness today (S&P -0.8%), consistent with reported strength in AMD on this news. Sized modestly ($39.98, ~0.7% of equity) given limited cash on hand after this morning's TLT-trim rebuilt the buffer to just $74.09 -- kept roughly half the cash in reserve rather than redeploying it all again in the same day."
+  },
+  {
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T14:12:56Z",
+    "action": "SELL",
+    "ticker": "USO",
+    "qty": 1.378,
+    "price": 142.364,
+    "amount": 196.18,
+    "cash_after": 230.29,
+    "rationale": "Exiting the remaining USO position (3.59% of equity, -4.82% unrealized) on a fresh, dated double-negative catalyst: oil fell sharply today (WTI down ~2% toward $90-92, Brent down 2.57% to $99.68) on easing Middle East supply constraints -- a 'notable recovery in seaborne crude export flows' from Middle Eastern producers -- plus a surprise EIA crude inventory build, with US domestic production holding near record highs (~13.95M bpd). This directly reverses the Hormuz-escalation thesis that drove the 9/28 USO add and is distinct from the already-used diplomatic-thaw narrative of 9/25 -- today's driver is a confirmed supply-side easing plus a surprise inventory print, not just talk of a deal. Position was already small; proceeds fund today's NVDA and TLT adds below."
+  },
+  {
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T14:12:56Z",
+    "action": "BUY",
+    "ticker": "NVDA",
+    "qty": 0.4221,
+    "price": 236.89,
+    "amount": 100.0,
+    "cash_after": 130.29,
+    "rationale": "Adding to NVDA (17.75% of equity, room under the 30% cap, +12.65% unrealized) on a fresh, dated, single-name catalyst distinct from the already-traded $150B buyback (9/28): Morgan Stanley reinstated NVDA as its top semiconductor pick today (10/2), citing an 'undemanding' valuation (~15x FY28 earnings) with room for upside as earnings estimates rise. Own fetched price ($236.89) confirms the reaction, up from yesterday's $230.86 close, consistent with reported premarket strength (+2.24%) on the note. Sized at $100 (~1.8% of equity), funded from today's USO exit."
+  },
+  {
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T14:12:56Z",
+    "action": "BUY",
+    "ticker": "TLT",
+    "qty": 1.2798,
+    "price": 78.14,
+    "amount": 100.0,
+    "cash_after": 30.29,
+    "rationale": "Adding back to TLT (trimmed repeatedly this month to just 1.29% of equity while selling into the bond-yield rout) on a genuine, dated reversal of that very rout: September nonfarm payrolls came in at just 29K versus 85K expected, with August revised down from 162K to 133K (CNBC/GuruFocus, 10/2), sending the 10yr Treasury yield down 6bp to 5.18% and the 30yr down ~3-4bp to 5.57%, off this week's highest levels since 2002/2004, and lifting October Fed-hold odds to 84% from roughly 70% hike odds just days earlier (CME FedWatch). Own fetched TLT price ($78.14) confirms a bounce off the $77.928 level this position was trimmed at on 9/29. This is the first confirmed reversal catalyst for duration assets in weeks -- buying into the reversal rather than fighting it, distinct from every prior TLT trade this month (all sells into the rout). Sized at $100 (~1.8% of equity), funded from today's USO exit."
   }
 ]

@@ -1,11 +1,11 @@
 {
-  "cash": 34.11,
-  "as_of": "2026-10-01T14:10:18Z",
+  "cash": 30.29,
+  "as_of": "2026-10-02T14:12:56Z",
   "holdings": [
     {
       "ticker": "NVDA",
-      "qty": 4.0992,
-      "avg_cost": 210.2889
+      "qty": 4.5213,
+      "avg_cost": 212.7723
     },
     {
       "ticker": "AAPL",
@@ -39,13 +39,8 @@
     },
     {
       "ticker": "TLT",
-      "qty": 0.9042,
-      "avg_cost": 82.945
-    },
-    {
-      "ticker": "USO",
-      "qty": 1.378,
-      "avg_cost": 149.5736
+      "qty": 2.184,
+      "avg_cost": 80.1293
     },
     {
       "ticker": "SLV",

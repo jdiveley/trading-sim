@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-01T20:09:42Z",
-  "last_run_note": "Thursday afternoon/close cycle (3rd of the day). HOLD -- no trades. Third straight no-trade cycle today: every holding's news was a repeat of an already-traded theme, internally contradictory, or unconfirmed by price (AMZN's Goldman Conviction List add, META's new $27B Nebius AI-capacity deal). GOOGL held flat at the largest position per the standing diversification constraint despite a new mixed Gemini-4-doubts item. 10yr/30yr Treasury yields extended further to fresh 2002-era highs. Total equity $5,407.42 (cash $34.11 + holdings $5,373.31), down modestly from midday's $5,402.20, comfortably above the $25 floor.",
+  "last_run_at": "2026-10-02T14:12:56Z",
+  "last_run_note": "Friday morning cycle (1st of the day). 2 trades executed: sold the remaining USO position (easing Mideast supply/surprise EIA crude build reversed the oil-escalation thesis), and added $100 each to NVDA (Morgan Stanley reinstated as top semiconductor pick) and TLT (weak Sept jobs report -- 29K vs 85K expected -- sent yields down and Fed-hold odds up to 84%, the first genuine reversal of the month-long bond rout). All other positions held on repeat/mixed signals. Total equity $5,471.72 (cash $30.29 + holdings $5,441.43), up from Thursday close's $5,407.42, comfortably above the $25 floor.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-01T20:12:00Z"
+    "checked_at": "2026-10-02T14:20:00Z"
   },
   "schedule_gaps": [
     {
