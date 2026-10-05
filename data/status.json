@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-05T17:18:28Z",
-  "last_run_note": "No trades; held all 10 positions. NVDA got a new BNP Paribas price-target raise ($285->$345) but was skipped as churn after two adds already this month; META faces a new $35-40B New Mexico privacy-penalty risk but price hasn't reacted, so held. Total equity $5,481.00 (cash $29.55 + holdings $5,451.45), up from $5,476.69 last cycle, comfortably above the $25 floor.",
+  "last_run_at": "2026-10-05T20:11:48Z",
+  "last_run_note": "1 trade executed: added $25 to AMD on a fresh BNP Paribas price-target raise to $960 from $600 (60% hike) plus Helios/ROCm AI-CPU-demand commentary, distinct from this morning's already-passed-on Stifel note. Total equity $5,489.13 (cash $4.55 + holdings $5,484.58), up slightly from $5,481.00 last cycle, comfortably above the $25 floor. Cash buffer now very thin ($4.55).",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-05T17:51:26Z"
+    "checked_at": "2026-10-05T20:20:49Z"
   },
   "schedule_gaps": [
     {
