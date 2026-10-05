@@ -515,5 +515,27 @@
     "amount": 100.0,
     "cash_after": 30.29,
     "rationale": "Adding back to TLT (trimmed repeatedly this month to just 1.29% of equity while selling into the bond-yield rout) on a genuine, dated reversal of that very rout: September nonfarm payrolls came in at just 29K versus 85K expected, with August revised down from 162K to 133K (CNBC/GuruFocus, 10/2), sending the 10yr Treasury yield down 6bp to 5.18% and the 30yr down ~3-4bp to 5.57%, off this week's highest levels since 2002/2004, and lifting October Fed-hold odds to 84% from roughly 70% hike odds just days earlier (CME FedWatch). Own fetched TLT price ($78.14) confirms a bounce off the $77.928 level this position was trimmed at on 9/29. This is the first confirmed reversal catalyst for duration assets in weeks -- buying into the reversal rather than fighting it, distinct from every prior TLT trade this month (all sells into the rout). Sized at $100 (~1.8% of equity), funded from today's USO exit."
+  },
+  {
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T14:22:54Z",
+    "action": "SELL",
+    "ticker": "SLV",
+    "qty": 1.2539,
+    "price": 55.235,
+    "amount": 69.26,
+    "cash_after": 99.55,
+    "rationale": "Exiting the full SLV position (1.26% of equity, -7.66% unrealized) on a direct reversal of the 9/4 initiation catalyst: silver plunged roughly 5% today toward about $61/oz as rising Treasury yields (10yr still ~5.26%, 20yr Treasury yield near 5.68%, a two-decade high) pressured precious metals ahead of this week's Fed minutes release. No fresh bullish catalyst for silver specifically has emerged since the initiation; closing out a small, now-underwater, non-income-producing position to fund a higher-conviction add elsewhere rather than averaging down."
+  },
+  {
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T14:22:54Z",
+    "action": "BUY",
+    "ticker": "META",
+    "qty": 0.0944,
+    "price": 741.84,
+    "amount": 70.0,
+    "cash_after": 29.55,
+    "rationale": "Adding to META (was underweight at just 2.7% of equity since the 9/22 initiation on the Muse AI App Store #1 milestone) on fresh, dated confirmation distinct from that initiation catalyst: Meta's Muse AI agent has now surpassed 5 million downloads and is expanding to small businesses, linking the assistant to advertising, sales and operations -- a concrete usage/commercial-reach milestone, not just the earlier launch buzz. Separately, five analysts raised price targets today alone, all well above the $741.84 current price: Canaccord Genuity to $950, Piper Sandler to $875, TD Cowen to $865, Deutsche Bank to $820, and Monness Crespi & Hardt to $830. Funded by today's full SLV exit; sized at $70 (~1.3% of equity), bringing META to ~4.3% of equity, still well under the 30% single-position cap."
   }
 ]

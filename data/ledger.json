@@ -1,6 +1,6 @@
 {
-  "cash": 30.29,
-  "as_of": "2026-10-02T14:12:56Z",
+  "cash": 29.55,
+  "as_of": "2026-10-05T14:22:54Z",
   "holdings": [
     {
       "ticker": "NVDA",
@@ -43,19 +43,14 @@
       "avg_cost": 80.1293
     },
     {
-      "ticker": "SLV",
-      "qty": 1.2539,
-      "avg_cost": 59.815
-    },
-    {
       "ticker": "AMD",
       "qty": 0.2116,
       "avg_cost": 543.3348
     },
     {
       "ticker": "META",
-      "qty": 0.2012,
-      "avg_cost": 745.47
+      "qty": 0.2956,
+      "avg_cost": 744.3108
     }
   ]
 }
