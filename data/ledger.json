@@ -1,6 +1,6 @@
 {
-  "cash": 34.55,
-  "as_of": "2026-10-06T14:18:43Z",
+  "cash": 4.55,
+  "as_of": "2026-10-06T17:10:56Z",
   "holdings": [
     {
       "ticker": "NVDA",
@@ -34,8 +34,8 @@
     },
     {
       "ticker": "AMZN",
-      "qty": 2.2386,
-      "avg_cost": 268.02
+      "qty": 2.356,
+      "avg_cost": 267.3984
     },
     {
       "ticker": "TLT",

@@ -570,5 +570,16 @@
     "amount": 60.01,
     "cash_after": 34.55,
     "rationale": "Adding to MSFT (15.74% of equity, room under the 30% cap) on two fresh, dated, named-analyst catalysts distinct from the 9/21 Cantor Fitzgerald add: Melius Research upgraded MSFT to Buy from Hold today, raising its price target to $665, citing growing enterprise demand for AI security/governance products; separately Scotiabank raised its target to $615 from $510. Own fetched price ($534.82) confirms continued strength (premarket $528.25, up on the week). Funded by today's GLD trim above."
+  },
+  {
+    "date": "2026-10-06",
+    "timestamp": "2026-10-06T17:10:56Z",
+    "action": "BUY",
+    "ticker": "AMZN",
+    "qty": 0.1174,
+    "price": 255.545,
+    "amount": 30.0,
+    "cash_after": 4.55,
+    "rationale": "Adding to AMZN (10.35% of equity pre-trade, -4.65% unrealized) on two fresh, dated analyst actions distinct from the already-traded AWS community fund / Prime Big Deal Days items: Tigress Financial raised its price target to $385 from $315 (Buy) and Cantor Fitzgerald reiterated Overweight with a $320 target, both today (10/6), citing AMZN's AI-driven advertising push -- both targets imply 25-50% upside from the $255.545 fetched price. Buying into the dip on fresh bullish coverage rather than averaging down blindly. Sized at $30 (~0.5% of equity) given cash on hand was only $34.55; AMZN remains well under the 30% single-position cap at ~10.9% of equity after this add."
   }
 ]
