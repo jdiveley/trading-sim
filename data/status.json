@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-05T20:11:48Z",
-  "last_run_note": "1 trade executed: added $25 to AMD on a fresh BNP Paribas price-target raise to $960 from $600 (60% hike) plus Helios/ROCm AI-CPU-demand commentary, distinct from this morning's already-passed-on Stifel note. Total equity $5,489.13 (cash $4.55 + holdings $5,484.58), up slightly from $5,481.00 last cycle, comfortably above the $25 floor. Cash buffer now very thin ($4.55).",
+  "last_run_at": "2026-10-06T14:18:43Z",
+  "last_run_note": "2 trades executed (a funded swap): sold $90.01 of GLD on a fresh gold-weakness/high-yield catalyst, bought $60.01 of MSFT on fresh Melius upgrade-to-Buy ($665 PT) and Scotiabank PT raise ($615) catalysts. Total equity $5,528.04 (cash $34.55 + holdings $5,493.49), up from $5,489.13 last cycle. Cash buffer rebuilt from $4.55 to $34.55.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-05T20:20:49Z"
+    "checked_at": "2026-10-06T14:28:00Z"
   },
   "schedule_gaps": [
     {

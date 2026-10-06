@@ -548,5 +548,27 @@
     "amount": 25.0,
     "cash_after": 4.55,
     "rationale": "Adding to AMD (was just 2.44% of equity, +16.27% unrealized) on a fresh, dated, distinct catalyst from the Stifel $700 target already noted and passed on this morning: BNP Paribas analyst Karl Ackerman raised AMD's price target 60% to $960 from $600 today (10/5), citing AMD becoming a leading AI-infrastructure CPU provider as agentic-AI CPU demand grows toward an estimated $245B market by 2030, the Helios platform's 14GW of commitments, and ROCm software improvements -- a materially larger and distinct move from any prior AMD analyst note this month. Own fetched price ($631.75) confirms continued strength near AMD's recent all-time-closing-high run. Sized small ($25, ~0.46% of equity) given cash on hand was down to just $29.55, leaving a $4.55 buffer; AMD remains well under the 30% single-position cap at ~2.9% of equity after this add."
+  },
+  {
+    "date": "2026-10-06",
+    "timestamp": "2026-10-06T14:18:43Z",
+    "action": "SELL",
+    "ticker": "GLD",
+    "qty": 0.2365,
+    "price": 380.59,
+    "amount": 90.01,
+    "cash_after": 94.56,
+    "rationale": "Trimming ~38% of GLD (4.34% of equity) on a fresh, dated bearish catalyst: gold fell to $4,121.39/oz today (-0.44%, TradingEconomics), pressured by a stronger dollar and Treasury yields holding near 24-year highs (30yr ~5.66-5.70%, per Saxo/247WallSt coverage of this week's $119B Treasury auction), with Barchart's technical read at 8% Sell ('weakest short term outlook'). Rebuilding the cash buffer, which had fallen to just $4.55 (0.08% of equity) after yesterday's AMD add, while funding today's MSFT add below."
+  },
+  {
+    "date": "2026-10-06",
+    "timestamp": "2026-10-06T14:18:43Z",
+    "action": "BUY",
+    "ticker": "MSFT",
+    "qty": 0.1122,
+    "price": 534.82,
+    "amount": 60.01,
+    "cash_after": 34.55,
+    "rationale": "Adding to MSFT (15.74% of equity, room under the 30% cap) on two fresh, dated, named-analyst catalysts distinct from the 9/21 Cantor Fitzgerald add: Melius Research upgraded MSFT to Buy from Hold today, raising its price target to $665, citing growing enterprise demand for AI security/governance products; separately Scotiabank raised its target to $615 from $510. Own fetched price ($534.82) confirms continued strength (premarket $528.25, up on the week). Funded by today's GLD trim above."
   }
 ]
