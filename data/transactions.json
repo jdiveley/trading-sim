@@ -581,5 +581,16 @@
     "amount": 30.0,
     "cash_after": 4.55,
     "rationale": "Adding to AMZN (10.35% of equity pre-trade, -4.65% unrealized) on two fresh, dated analyst actions distinct from the already-traded AWS community fund / Prime Big Deal Days items: Tigress Financial raised its price target to $385 from $315 (Buy) and Cantor Fitzgerald reiterated Overweight with a $320 target, both today (10/6), citing AMZN's AI-driven advertising push -- both targets imply 25-50% upside from the $255.545 fetched price. Buying into the dip on fresh bullish coverage rather than averaging down blindly. Sized at $30 (~0.5% of equity) given cash on hand was only $34.55; AMZN remains well under the 30% single-position cap at ~10.9% of equity after this add."
+  },
+  {
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T20:10:06Z",
+    "action": "SELL",
+    "ticker": "NVDA",
+    "qty": 1.0,
+    "price": 230.48,
+    "amount": 230.48,
+    "cash_after": 235.03,
+    "rationale": "Trimming ~22% of NVDA (19.09% of equity pre-trade, #1 holding) on a fresh, dated, market-wide catalyst that directly names the chip cohort NVDA belongs to: Thursday 10/8's close saw the Nasdaq fall 1.25% and the S&P 500 fall 0.47% after the Financial Times reported OpenAI's annualized revenue run-rate is roughly $20B below what had previously been signaled, triggering an AI-capex-sustainability selloff in chip/AI-infrastructure names -- Oracle fell more than 5%, and Nvidia and AMD both declined (CNBC, Yahoo Finance, Fool.com live coverage, all dated 10/8) -- compounded by rising oil prices and Treasury yields (10yr still near multidecade highs) adding further pressure. This is distinct from every prior NVDA catalyst this month (the $150B buyback on 9/28, the Morgan Stanley top-pick reinstatement on 10/2): it is the first dated, market-wide 'growing AI caution' catalyst specifically naming the AI-chip cohort. Own fetched price ($230.48) confirms the decline from Monday's $236.89 fill. Trimming to reduce concentration in the most AI-capex-exposed name and to rebuild the cash buffer, which had been stuck at just $4.55 (0.08% of equity) for three straight cycles."
   }
 ]
