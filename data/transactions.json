@@ -592,5 +592,16 @@
     "amount": 230.48,
     "cash_after": 235.03,
     "rationale": "Trimming ~22% of NVDA (19.09% of equity pre-trade, #1 holding) on a fresh, dated, market-wide catalyst that directly names the chip cohort NVDA belongs to: Thursday 10/8's close saw the Nasdaq fall 1.25% and the S&P 500 fall 0.47% after the Financial Times reported OpenAI's annualized revenue run-rate is roughly $20B below what had previously been signaled, triggering an AI-capex-sustainability selloff in chip/AI-infrastructure names -- Oracle fell more than 5%, and Nvidia and AMD both declined (CNBC, Yahoo Finance, Fool.com live coverage, all dated 10/8) -- compounded by rising oil prices and Treasury yields (10yr still near multidecade highs) adding further pressure. This is distinct from every prior NVDA catalyst this month (the $150B buyback on 9/28, the Morgan Stanley top-pick reinstatement on 10/2): it is the first dated, market-wide 'growing AI caution' catalyst specifically naming the AI-chip cohort. Own fetched price ($230.48) confirms the decline from Monday's $236.89 fill. Trimming to reduce concentration in the most AI-capex-exposed name and to rebuild the cash buffer, which had been stuck at just $4.55 (0.08% of equity) for three straight cycles."
+  },
+  {
+    "date": "2026-10-09",
+    "timestamp": "2026-10-09T14:19:21Z",
+    "action": "SELL",
+    "ticker": "AAPL",
+    "qty": 0.5886,
+    "price": 333.335,
+    "amount": 196.2,
+    "cash_after": 431.23,
+    "rationale": "Trimming ~50% of AAPL (7.15% of equity, +3.27% unrealized) on fresh, dated, concrete negative catalysts specific to today (10/9): Nikkei Asia reported Apple cut iPhone 18 Pro / 18 Pro Max component orders by 15-20% for October on weaker-than-expected demand (Benzinga, TipRanks, StocksToTrade all dated 10/9); separately a jury awarded $5.7B in patent damages against Apple in Taction Technology v. Apple, which Apple plans to appeal. Own fetched price ($333.335) confirms the ~2% decline reported across sources, down from the $336-339 range seen in prior cycles. Reducing exposure to a now double-negative, dated setup while banking the existing gain; AAPL remains held (not fully exited) given the position was already modest and no single headline here is a company-ending risk."
   }
 ]

@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-08T20:10:06Z",
-  "last_run_note": "1 trade executed: trimmed 1.0 NVDA @ $230.48 (19.09% to ~15.3% of equity) on today's dated chip-sector selloff (FT report of a ~$20B OpenAI revenue shortfall vs. prior signals sparking AI-capex doubts; Nasdaq -1.25%, Oracle -5%+, NVDA/AMD both down), rebuilding the cash buffer from $4.55 to $235.03. Total equity $5,459.41 (cash $235.03 + holdings $5,224.38), down slightly from $5,476.48 last cycle, comfortably above the $25 floor.",
+  "last_run_at": "2026-10-09T14:19:21Z",
+  "last_run_note": "1 trade executed: trimmed ~50% of AAPL (0.5886 sh @ $333.335, 7.15% to ~3.6% of equity) on today's dual dated negative catalysts (Nikkei Asia-reported 15-20% iPhone 18 Pro component order cuts for October; $5.7B patent-damages jury verdict in Taction Technology v. Apple), rebuilding cash from $235.03 to $431.23. NVDA/AMD premarket-rebound headlines were not corroborated by own fetched prices and left unchanged. Total equity $5,490.70 (cash $431.23 + holdings $5,059.47), roughly flat vs $5,459.41 last cycle, comfortably above the $25 floor.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-08T20:11:00Z"
+    "checked_at": "2026-10-09T14:23:33Z"
   },
   "schedule_gaps": [
     {
