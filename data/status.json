@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-12T17:08:55Z",
-  "last_run_note": "No trades; held all 10 positions. Noon cycle -- prices drifted under 1% from this morning's META buy and no fresh, dated catalyst was found for any held ticker or watchlist candidate (AVGO/USO/BND/DBC). Total equity $5,495.65 (cash $281.23 + holdings $5,214.42), essentially flat vs this morning.",
+  "last_run_at": "2026-10-12T20:10:01Z",
+  "last_run_note": "No trades; held all 10 positions. Close cycle -- prices drifted under 0.6% from noon and no fresh, dated catalyst was found for any held ticker or watchlist candidate (AVGO/USO/BND/DBC). Total equity $5,501.00 (cash $281.23 + holdings $5,219.77), essentially flat vs noon.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-12T17:15:00Z"
+    "checked_at": "2026-10-12T20:11:43Z"
   },
   "schedule_gaps": [
     {
