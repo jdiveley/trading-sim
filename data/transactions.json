@@ -614,5 +614,16 @@
     "amount": 150.0,
     "cash_after": 281.23,
     "rationale": "Adding to META (4.0% of equity pre-trade) on fresh, dated, same-day catalysts distinct from every prior META trade this month: shares opened up ~3.8% and traded up ~3.1-3.5% this morning (10/12) per Investing.com and TradingKey, driven by (1) Cantor Fitzgerald reiterating Overweight today with an $840 target, (2) Meta barring ByteDance/TikTok from buying ads in seven countries -- a new, dated revenue-protection move not previously logged, and (3) continued Muse AI agent momentum (5M downloads in 22 days) ahead of Meta's Q3 report later this month. Broader market was roughly flat (S&P flat, Nasdaq -0.1%) per Yahoo Finance/TheStreet, confirming the move is company-specific, not a market-wide drift. Own fetched price ($743.30) is consistent with the reported intraday levels. Sized at $150 (~2.7% of equity), bringing META to ~6.7% of equity, well under the 30% single-position cap."
+  },
+  {
+    "date": "2026-10-14",
+    "timestamp": "2026-10-14T17:09:02Z",
+    "action": "SELL",
+    "ticker": "NVDA",
+    "qty": 0.6748,
+    "price": 222.3,
+    "amount": 150.01,
+    "cash_after": 431.24,
+    "rationale": "Trimming ~19% of NVDA (14.37% of equity pre-trade, largest chip/AI exposure) on a fresh, dated, confirmed macro catalyst: the September CPI report released this morning (10/14/2026) came in hot -- headline +0.6% m/m, annual rate 3.7%, with core CPI also above forecast -- putting another Fed rate hike back in play this month (24/7 Wall St, TheStreet, Yahoo Finance, all dated 10/14/2026). Multiple same-day sources report a tech/chip-led selloff (Nasdaq -1.5% vs S&P -1% vs Dow -0.2/-0.3% at midday; JournalArta headline: chip stocks weigh on Wall Street). This is directly corroborated by our own fetched prices, which show NVDA down -1.0% (224.55 -> 222.30) and AMD down -1.84% (583.38 -> 572.62) since this morning open-slot cycle, extending Tuesday-to-Wednesday declines in both names -- unlike the 10/13 Asia-chip-selloff theme (which this own fund declined to trade on because it was NOT corroborated by our fetched prices), todays hot-CPI/rate-hike-risk theme IS corroborated. Trimming the single largest position to reduce concentration in the most rate-sensitive, highest-valuation growth/chip name and rebuild the cash buffer (was just 5.16% of equity) ahead of continued volatility risk this month. AMD was not also trimmed given its already-small size (2.64% of equity); NVDA remains a core holding post-trim at ~11.6% of equity."
   }
 ]
