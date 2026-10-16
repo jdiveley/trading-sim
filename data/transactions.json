@@ -625,5 +625,27 @@
     "amount": 150.01,
     "cash_after": 431.24,
     "rationale": "Trimming ~19% of NVDA (14.37% of equity pre-trade, largest chip/AI exposure) on a fresh, dated, confirmed macro catalyst: the September CPI report released this morning (10/14/2026) came in hot -- headline +0.6% m/m, annual rate 3.7%, with core CPI also above forecast -- putting another Fed rate hike back in play this month (24/7 Wall St, TheStreet, Yahoo Finance, all dated 10/14/2026). Multiple same-day sources report a tech/chip-led selloff (Nasdaq -1.5% vs S&P -1% vs Dow -0.2/-0.3% at midday; JournalArta headline: chip stocks weigh on Wall Street). This is directly corroborated by our own fetched prices, which show NVDA down -1.0% (224.55 -> 222.30) and AMD down -1.84% (583.38 -> 572.62) since this morning open-slot cycle, extending Tuesday-to-Wednesday declines in both names -- unlike the 10/13 Asia-chip-selloff theme (which this own fund declined to trade on because it was NOT corroborated by our fetched prices), todays hot-CPI/rate-hike-risk theme IS corroborated. Trimming the single largest position to reduce concentration in the most rate-sensitive, highest-valuation growth/chip name and rebuild the cash buffer (was just 5.16% of equity) ahead of continued volatility risk this month. AMD was not also trimmed given its already-small size (2.64% of equity); NVDA remains a core holding post-trim at ~11.6% of equity."
+  },
+  {
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T20:08:49Z",
+    "action": "SELL",
+    "ticker": "AMD",
+    "qty": 0.1256,
+    "price": 528.75,
+    "amount": 66.41,
+    "cash_after": 497.65,
+    "rationale": "Trimming half of AMD (2.48% of equity pre-trade) on a fresh, dated, concrete sector-specific catalyst distinct from any prior AMD trade this month: AMD fell 5.1% today (10/16) as semiconductors extended a 9th straight daily decline, driven by an AI-financing/debt-sustainability scare after CoreWeave (CRWV) dropped ~8-10% (down ~23% over 5 days) on fears about its AI-related debt load, with Intel -4.7%, Micron -4.1%, and Broadcom -3.6% also named in the same selloff (Motley Fool, Investrade, BNN Bloomberg, all dated 10/16/2026). Separately, December rate-hike odds jumped to 74.3% from 50.2% a month ago -- a hawkish repricing that raises the cost of debt-financed AI capex, directly reinforcing the selloff's thesis. AMD was already a small position; trimming to reduce exposure to the most debt-financing-exposed cohort while the position is still modest."
+  },
+  {
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T20:08:49Z",
+    "action": "BUY",
+    "ticker": "GLD",
+    "qty": 0.3926,
+    "price": 382.04,
+    "amount": 150.0,
+    "cash_after": 347.65,
+    "rationale": "Adding to GLD (2.80% of equity pre-trade) on a fresh, dated safe-haven catalyst distinct from the 10/6 trim: spot gold rallied today (10/16) toward roughly $4,177-4,210/oz as investors sought safety amid the AI-financing/chip-debt selloff (CoreWeave, AMD, Intel, Micron, Broadcom all down) and a hawkish Fed repricing (December hike odds jumped to 74.3% from 50.2%), per Motley Fool/Investrade/BNN Bloomberg coverage dated 10/16/2026. Funded by today's AMD trim above; sized at $150 (~2.8% of equity), bringing GLD to roughly 5.6% of equity, well under the 30% single-position cap and reinforcing commodity-class diversification alongside equities and bond ETFs (TLT, SHY)."
   }
 ]

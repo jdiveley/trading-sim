@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-16T17:10:08Z",
-  "last_run_note": "No trades; held all positions. Broad equity softness (MSFT -1.89%, META -1.82%, AVGO -1.76%, AMZN -1.25%) with no corroborating dated headline found; treated as noise. Total equity $5,362.47.",
+  "last_run_at": "2026-10-16T20:08:49Z",
+  "last_run_note": "2 trades executed: trimmed half of AMD ($66.41) on a dated chip-sector/AI-debt-financing selloff (AMD -5.1%, CoreWeave debt scare, 9th straight semis down day); added $150 to GLD on a corroborated safe-haven rally. Total equity $5,357.06.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-16T17:10:08Z"
+    "checked_at": "2026-10-16T20:14:00Z"
   },
   "schedule_gaps": [
     {
