@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-16T14:11:00Z",
-  "last_run_note": "No trades; held all positions (AMD -3.09% and GOOGL -1.51% were today's largest movers, but both trace to already-cited 10/14-10/15 catalysts, not a fresh one; NVDA roughly flat). Total equity $5,408.73.",
+  "last_run_at": "2026-10-16T17:10:08Z",
+  "last_run_note": "No trades; held all positions. Broad equity softness (MSFT -1.89%, META -1.82%, AVGO -1.76%, AMZN -1.25%) with no corroborating dated headline found; treated as noise. Total equity $5,362.47.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-16T14:11:00Z"
+    "checked_at": "2026-10-16T17:10:08Z"
   },
   "schedule_gaps": [
     {
