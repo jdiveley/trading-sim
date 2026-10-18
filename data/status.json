@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-18T17:09:31Z",
-  "last_run_note": "No trades; weekend no-op (Sunday noon cycle, market closed, all quotes stale/unchanged vs Friday close). Total equity $5,357.04.",
+  "last_run_at": "2026-10-18T20:09:26Z",
+  "last_run_note": "No trades; weekend no-op (Sunday close-slot cycle, market closed, all quotes stale/unchanged vs Friday close and vs both earlier cycles today). Total equity $5,357.04.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-18T17:11:28Z"
+    "checked_at": "2026-10-18T20:10:55Z"
   },
   "schedule_gaps": [
     {
