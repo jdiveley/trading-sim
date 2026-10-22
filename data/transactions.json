@@ -669,5 +669,38 @@
     "amount": 65.51,
     "cash_after": 544.36,
     "rationale": "Exiting the remaining small AMD position (1.24% of equity pre-trade, -6.44% unrealized) on a fresh, dated, sector-specific catalyst distinct from every prior AMD trade: Investing.com reports AMD fell ~5% in this morning's trading (10/22) as part of a broad AI-chip selloff triggered by news that Nvidia and Tesla plan to invest $2.8B in Samsung Electro-Mechanics, raising fresh circular-financing concerns across the AI supply chain, with AMD specifically flagged as trading near 199x trailing earnings -- leaving little margin for error on any negative surprise. This compounds a broader market-wide tech selloff reported by Bloomberg/Yahoo Finance for today, with Nasdaq 100 futures down ~1.7% on disappointing tech earnings (including Meta's, traded above) and Middle East tensions pushing oil higher. Own fetched price confirms the move: AMD down -5.63% since yesterday's close ($552.72 -> $521.60). Given AMD was already a de-minimis position, full exit removes exposure to the most stretched-valuation, most narrative-vulnerable name in the complex rather than holding a token position through confirmed sector-wide risk-off."
+  },
+  {
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T17:08:22Z",
+    "action": "SELL",
+    "ticker": "AMZN",
+    "qty": 0.589,
+    "price": 251.04,
+    "amount": 147.86,
+    "cash_after": 692.22,
+    "rationale": "Trimming ~25% of AMZN (11.22% of equity pre-trade, -6.12% unrealized) on fresh, dated, concrete negative catalysts specific to today (10/22) distinct from any prior AMZN trade this month: TradingKey reports AMZN opened down 3.50% on (1) pre-earnings positioning ahead of its Q3 2026 report, (2) a projected $220B 2026 AI-infrastructure capex budget that has pushed trailing-twelve-month free cash flow to -$7.6B, (3) weak forward revenue guidance of $197-202B reflecting slowing e-commerce growth and FX headwinds, and (4) a new regulatory risk -- an FTC lawsuit joined by 22 states alleging Amazon overcharged advertisers by more than $20B, with a marketplace trial pending. Own fetched price ($251.04) confirms continued weakness from this morning's levels (down from 253.46). Trimming ahead of the earnings print to reduce exposure to a now multi-pronged negative setup while keeping a meaningful remainder (~8.4% of equity post-trade)."
+  },
+  {
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T17:08:22Z",
+    "action": "BUY",
+    "ticker": "USO",
+    "qty": 0.9856,
+    "price": 162.34,
+    "amount": 160.0,
+    "cash_after": 532.22,
+    "rationale": "Opening a new USO position (0% of equity pre-trade) on a fresh, dated, concrete geopolitical supply-side catalyst distinct from every prior commodity trade this month (which were gold/GLD-focused): Yahoo Finance reports Brent crude topped $111/bbl today (10/22), its highest level since May, and WTI neared $100, driven by reports the US and Israel are preparing renewed strikes on Iran after the midterm elections, plus a separate attack on a Saudi airport and an Aramco oil field. This also partly explains today's broader equity selloff (inflation fears pushing December rate-hike odds higher) and gold's own 1%+ drop to a two-week low, since higher-for-longer rate expectations hurt non-yielding gold more than oil-linked assets. Own fetched price ($162.34) used as fill. Sized at ~3% of equity to add distinct oil/commodity exposure alongside GLD without concentration risk; funded by today's AMZN trim plus existing cash."
+  },
+  {
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T17:08:22Z",
+    "action": "SELL",
+    "ticker": "META",
+    "qty": 0.1194,
+    "price": 647.1,
+    "amount": 77.26,
+    "cash_after": 609.48,
+    "rationale": "Trimming ~40% of the remaining META position (3.66% of equity pre-trade, already reduced once this morning on the Q3 earnings margin-compression reaction) on a fresh, distinct, dated catalyst confirmed via primary source: an SEC Form PRE 14C filing (meta-20261021.htm, filed 10/21/2026) plus a companion 8-K show Meta's board approved a new publicly listed, non-voting Class C common stock (effective Jan 2027), following a special committee's unanimous recommendation, explicitly to help finance AI-infrastructure capital needs. This is a capital-structure/dilution-risk catalyst, separate from this morning's operating-income catalyst. Globe and Mail market coverage dated 10/22/2026 ties this filing to META's further intraday decline (down to $647.10, roughly -7% from yesterday's $697.52 close) and a broader tech selloff (NVDA, AMZN each cited down ~2% on spillover AI-capex-financing jitters). Own fetched price ($647.10) confirms continued weakness since this morning's $659.29 print. Reducing exposure further to a now twice-confirmed negative setup (margin compression + dilution risk) while keeping a small remainder (~2.2% of equity)."
   }
 ]
