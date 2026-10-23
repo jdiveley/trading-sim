@@ -1,6 +1,6 @@
 {
-  "cash": 609.48,
-  "as_of": "2026-10-22T17:08:22Z",
+  "cash": 309.48,
+  "as_of": "2026-10-23T17:11:03Z",
   "holdings": [
     {
       "ticker": "NVDA",
@@ -39,8 +39,8 @@
     },
     {
       "ticker": "TLT",
-      "qty": 2.184,
-      "avg_cost": 80.1293
+      "qty": 4.0258,
+      "avg_cost": 80.729
     },
     {
       "ticker": "META",
@@ -49,8 +49,8 @@
     },
     {
       "ticker": "USO",
-      "qty": 0.9856,
-      "avg_cost": 162.34
+      "qty": 1.8772,
+      "avg_cost": 165.1423
     }
   ]
 }

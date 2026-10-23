@@ -702,5 +702,27 @@
     "amount": 77.26,
     "cash_after": 609.48,
     "rationale": "Trimming ~40% of the remaining META position (3.66% of equity pre-trade, already reduced once this morning on the Q3 earnings margin-compression reaction) on a fresh, distinct, dated catalyst confirmed via primary source: an SEC Form PRE 14C filing (meta-20261021.htm, filed 10/21/2026) plus a companion 8-K show Meta's board approved a new publicly listed, non-voting Class C common stock (effective Jan 2027), following a special committee's unanimous recommendation, explicitly to help finance AI-infrastructure capital needs. This is a capital-structure/dilution-risk catalyst, separate from this morning's operating-income catalyst. Globe and Mail market coverage dated 10/22/2026 ties this filing to META's further intraday decline (down to $647.10, roughly -7% from yesterday's $697.52 close) and a broader tech selloff (NVDA, AMZN each cited down ~2% on spillover AI-capex-financing jitters). Own fetched price ($647.10) confirms continued weakness since this morning's $659.29 print. Reducing exposure further to a now twice-confirmed negative setup (margin compression + dilution risk) while keeping a small remainder (~2.2% of equity)."
+  },
+  {
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T17:11:03Z",
+    "action": "BUY",
+    "ticker": "USO",
+    "qty": 0.8916,
+    "price": 168.24,
+    "amount": 150.0,
+    "cash_after": 459.48,
+    "rationale": "Adding to the oil position (opened 10/22 at $162.34) on a fresh, concrete escalation of the same Hormuz/Middle East supply-risk thesis: per Fox News, CBS News, and TradingEconomics (all dated 10/23), Iran's Revolutionary Guard claims to have disabled seven tankers near the Strait of Hormuz, Houthi militants claimed responsibility for fresh attacks on Saudi Arabia's Red Sea port of Yanbu, and reports say the US and Israel have drawn up plans for renewed strikes on Iran after next month's midterms. Brent crossed $113-117/bbl today, a five-month high (highest since May) and up from <$97 at the start of October; our own fetched USO price ($168.24) confirms the move, up from yesterday's $162.34 fill and this morning's $167.72. Sized at $150 (~2.9% of total equity), funded from cash, bringing USO to ~6.3% of equity, well under the 30% single-position cap."
+  },
+  {
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T17:11:03Z",
+    "action": "BUY",
+    "ticker": "TLT",
+    "qty": 1.8418,
+    "price": 81.44,
+    "amount": 150.0,
+    "cash_after": 309.48,
+    "rationale": "Adding to the long-duration Treasury position on a fresh, dated rates catalyst distinct from every prior TLT trade: per Yahoo Finance/TheStreet coverage dated 10/23, Fed-funds futures now price only ~5% odds of an October rate hike, down sharply from ~15% earlier this week and ~37% at the end of September, and the 10-year Treasury yield posted its biggest one-day drop in more than two years on Thursday as investors rotated into bonds amid the tech/AI selloff -- a genuine, sourced shift in rate expectations ahead of the Fed's Oct 28 meeting, directly bullish for long-duration bonds. Sized at $150 (~2.9% of total equity), funded from cash, bringing TLT to ~6.3% of equity, still well under the 30% single-position cap and reinforcing bond-ETF diversification alongside SHY."
   }
 ]

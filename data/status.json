@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-23T14:15:43Z",
-  "last_run_note": "HOLD; no trades (1st cycle of 2026-10-23). No new, distinct, dated catalyst found for any held or watchlist ticker; USO up +3.2% since yesterday's fill but no fresh headline found to cite as cause, so no trade on the move alone. AMZN Q3 earnings confirmed for 10/29 (not yet). Total equity $5,261.53.",
+  "last_run_at": "2026-10-23T17:11:03Z",
+  "last_run_note": "2 trades executed (2nd cycle of 2026-10-23): BUY USO $150 on Hormuz-tanker/Yanbu-port escalation and Brent's 5-month high; BUY TLT $150 on Fed October-hike odds collapsing to ~5% and the 10yr yield's biggest one-day drop in 2+ years. Total equity $5,255.86.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-23T14:17:00Z"
+    "checked_at": "2026-10-23T17:16:00Z"
   },
   "schedule_gaps": [
     {
