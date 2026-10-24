@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-23T20:09:22Z",
-  "last_run_note": "No trades (3rd/close cycle of 2026-10-23): no fresh afternoon-specific catalyst found beyond the two already traded this cycle's noon run (USO/Hormuz-oil, TLT/Fed-odds-collapse); all price moves since noon under ~0.8%. Total equity $5,246.76.",
+  "last_run_at": "2026-10-24T14:09:07Z",
+  "last_run_note": "No trades (Saturday 2026-10-24, non-trading day): all fetched quotes exactly matched Friday's close, no dated weekend catalysts found. Total equity $5,246.75.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-23T20:11:59Z"
+    "checked_at": "2026-10-24T14:14:00Z"
   },
   "schedule_gaps": [
     {
