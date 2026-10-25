@@ -2,11 +2,11 @@
   "state": "RUNNING",
   "reason": null,
   "ended_at": null,
-  "last_run_at": "2026-10-25T14:10:02Z",
-  "last_run_note": "No trades (Sunday 2026-10-25, 14:00 UTC cycle, non-trading day): quotes still frozen at Friday's close, dedicated news search confirmed no fresh dated 10/24-10/25 catalyst. Total equity $5,246.75.",
+  "last_run_at": "2026-10-25T17:08:09Z",
+  "last_run_note": "No trades (Sunday 2026-10-25, 17:00 UTC cycle, non-trading day): quotes still frozen at Friday's close, dedicated news search confirmed no fresh dated 10/25 catalyst. Total equity $5,246.75.",
   "dashboard_publish": {
     "status": "ok",
-    "checked_at": "2026-10-25T14:15:00Z"
+    "checked_at": "2026-10-25T17:11:32Z"
   },
   "schedule_gaps": [
     {
